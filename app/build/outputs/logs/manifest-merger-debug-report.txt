@@ -1,0 +1,96 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Users\Zoha\StudioProjects\SonayJagnayKayAzkaar1\app\src\main\AndroidManifest.xml:2:1-29:12
+INJECTED from C:\Users\Zoha\StudioProjects\SonayJagnayKayAzkaar1\app\src\main\AndroidManifest.xml:2:1-29:12
+INJECTED from C:\Users\Zoha\StudioProjects\SonayJagnayKayAzkaar1\app\src\main\AndroidManifest.xml:2:1-29:12
+INJECTED from C:\Users\Zoha\StudioProjects\SonayJagnayKayAzkaar1\app\src\main\AndroidManifest.xml:2:1-29:12
+MERGED from [com.android.support:support-v4:27.0.2] C:\Users\Zoha\.gradle\caches\transforms-1\files-1.1\support-v4-27.0.2.aar\d35c0fad54369be5cd9f879400bc66fa\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-media-compat:27.0.2] C:\Users\Zoha\.gradle\caches\transforms-1\files-1.1\support-media-compat-27.0.2.aar\42048fb4c4e71094f13bc9c4ad25c8ef\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-fragment:27.0.2] C:\Users\Zoha\.gradle\caches\transforms-1\files-1.1\support-fragment-27.0.2.aar\03fa00ffb3705d7ecd33b4e13e6cefd7\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:27.0.2] C:\Users\Zoha\.gradle\caches\transforms-1\files-1.1\support-core-utils-27.0.2.aar\c23d53404b557ac8feb3845d57cd2e9a\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:27.0.2] C:\Users\Zoha\.gradle\caches\transforms-1\files-1.1\support-core-ui-27.0.2.aar\aaa41168e6e3c15adea4a2e592a22c92\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:27.0.2] C:\Users\Zoha\.gradle\caches\transforms-1\files-1.1\support-compat-27.0.2.aar\2234c4e31641947c87ea0f5e59eac802\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:runtime:1.0.3] C:\Users\Zoha\.gradle\caches\transforms-1\files-1.1\runtime-1.0.3.aar\d8caae45150a3f13bb1435a756725671\AndroidManifest.xml:17:1-24:12
+INJECTED from C:\Users\Zoha\StudioProjects\SonayJagnayKayAzkaar1\app\src\main\AndroidManifest.xml:2:1-29:12
+INJECTED from C:\Users\Zoha\StudioProjects\SonayJagnayKayAzkaar1\app\src\main\AndroidManifest.xml:2:1-29:12
+INJECTED from C:\Users\Zoha\StudioProjects\SonayJagnayKayAzkaar1\app\src\main\AndroidManifest.xml:2:1-29:12
+	package
+		ADDED from C:\Users\Zoha\StudioProjects\SonayJagnayKayAzkaar1\app\src\main\AndroidManifest.xml:3:5-54
+		INJECTED from C:\Users\Zoha\StudioProjects\SonayJagnayKayAzkaar1\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Zoha\StudioProjects\SonayJagnayKayAzkaar1\app\src\main\AndroidManifest.xml
+	android:versionName
+		ADDED from C:\Users\Zoha\StudioProjects\SonayJagnayKayAzkaar1\app\src\main\AndroidManifest.xml:5:5-30
+		INJECTED from C:\Users\Zoha\StudioProjects\SonayJagnayKayAzkaar1\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Zoha\StudioProjects\SonayJagnayKayAzkaar1\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Users\Zoha\StudioProjects\SonayJagnayKayAzkaar1\app\src\main\AndroidManifest.xml:2:11-69
+	android:versionCode
+		ADDED from C:\Users\Zoha\StudioProjects\SonayJagnayKayAzkaar1\app\src\main\AndroidManifest.xml:4:5-28
+		INJECTED from C:\Users\Zoha\StudioProjects\SonayJagnayKayAzkaar1\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Zoha\StudioProjects\SonayJagnayKayAzkaar1\app\src\main\AndroidManifest.xml
+supports-screens
+ADDED from C:\Users\Zoha\StudioProjects\SonayJagnayKayAzkaar1\app\src\main\AndroidManifest.xml:8:5-137
+	android:largeScreens
+		ADDED from C:\Users\Zoha\StudioProjects\SonayJagnayKayAzkaar1\app\src\main\AndroidManifest.xml:8:52-79
+	android:smallScreens
+		ADDED from C:\Users\Zoha\StudioProjects\SonayJagnayKayAzkaar1\app\src\main\AndroidManifest.xml:8:23-51
+	android:normalScreens
+		ADDED from C:\Users\Zoha\StudioProjects\SonayJagnayKayAzkaar1\app\src\main\AndroidManifest.xml:8:80-108
+	android:anyDensity
+		ADDED from C:\Users\Zoha\StudioProjects\SonayJagnayKayAzkaar1\app\src\main\AndroidManifest.xml:8:109-134
+application
+ADDED from C:\Users\Zoha\StudioProjects\SonayJagnayKayAzkaar1\app\src\main\AndroidManifest.xml:11:5-27:19
+	android:label
+		ADDED from C:\Users\Zoha\StudioProjects\SonayJagnayKayAzkaar1\app\src\main\AndroidManifest.xml:14:9-41
+	android:icon
+		ADDED from C:\Users\Zoha\StudioProjects\SonayJagnayKayAzkaar1\app\src\main\AndroidManifest.xml:13:9-45
+	android:allowBackup
+		ADDED from C:\Users\Zoha\StudioProjects\SonayJagnayKayAzkaar1\app\src\main\AndroidManifest.xml:12:9-35
+activity#com.alhuda.duasapp.sonayjagnaykayazkaar.activities.MainActivity
+ADDED from C:\Users\Zoha\StudioProjects\SonayJagnayKayAzkaar1\app\src\main\AndroidManifest.xml:16:9-26:20
+	android:label
+		ADDED from C:\Users\Zoha\StudioProjects\SonayJagnayKayAzkaar1\app\src\main\AndroidManifest.xml:18:13-45
+	android:launchMode
+		ADDED from C:\Users\Zoha\StudioProjects\SonayJagnayKayAzkaar1\app\src\main\AndroidManifest.xml:20:9-39
+	android:configChanges
+		ADDED from C:\Users\Zoha\StudioProjects\SonayJagnayKayAzkaar1\app\src\main\AndroidManifest.xml:19:14-75
+	android:name
+		ADDED from C:\Users\Zoha\StudioProjects\SonayJagnayKayAzkaar1\app\src\main\AndroidManifest.xml:17:13-91
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from C:\Users\Zoha\StudioProjects\SonayJagnayKayAzkaar1\app\src\main\AndroidManifest.xml:21:13-25:29
+action#android.intent.action.MAIN
+ADDED from C:\Users\Zoha\StudioProjects\SonayJagnayKayAzkaar1\app\src\main\AndroidManifest.xml:22:17-69
+	android:name
+		ADDED from C:\Users\Zoha\StudioProjects\SonayJagnayKayAzkaar1\app\src\main\AndroidManifest.xml:22:25-66
+category#android.intent.category.LAUNCHER
+ADDED from C:\Users\Zoha\StudioProjects\SonayJagnayKayAzkaar1\app\src\main\AndroidManifest.xml:24:17-77
+	android:name
+		ADDED from C:\Users\Zoha\StudioProjects\SonayJagnayKayAzkaar1\app\src\main\AndroidManifest.xml:24:27-74
+uses-sdk
+INJECTED from C:\Users\Zoha\StudioProjects\SonayJagnayKayAzkaar1\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from C:\Users\Zoha\StudioProjects\SonayJagnayKayAzkaar1\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\Zoha\StudioProjects\SonayJagnayKayAzkaar1\app\src\main\AndroidManifest.xml
+MERGED from [com.android.support:support-v4:27.0.2] C:\Users\Zoha\.gradle\caches\transforms-1\files-1.1\support-v4-27.0.2.aar\d35c0fad54369be5cd9f879400bc66fa\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:27.0.2] C:\Users\Zoha\.gradle\caches\transforms-1\files-1.1\support-v4-27.0.2.aar\d35c0fad54369be5cd9f879400bc66fa\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:27.0.2] C:\Users\Zoha\.gradle\caches\transforms-1\files-1.1\support-media-compat-27.0.2.aar\42048fb4c4e71094f13bc9c4ad25c8ef\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:27.0.2] C:\Users\Zoha\.gradle\caches\transforms-1\files-1.1\support-media-compat-27.0.2.aar\42048fb4c4e71094f13bc9c4ad25c8ef\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:27.0.2] C:\Users\Zoha\.gradle\caches\transforms-1\files-1.1\support-fragment-27.0.2.aar\03fa00ffb3705d7ecd33b4e13e6cefd7\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:27.0.2] C:\Users\Zoha\.gradle\caches\transforms-1\files-1.1\support-fragment-27.0.2.aar\03fa00ffb3705d7ecd33b4e13e6cefd7\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.0.2] C:\Users\Zoha\.gradle\caches\transforms-1\files-1.1\support-core-utils-27.0.2.aar\c23d53404b557ac8feb3845d57cd2e9a\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.0.2] C:\Users\Zoha\.gradle\caches\transforms-1\files-1.1\support-core-utils-27.0.2.aar\c23d53404b557ac8feb3845d57cd2e9a\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.0.2] C:\Users\Zoha\.gradle\caches\transforms-1\files-1.1\support-core-ui-27.0.2.aar\aaa41168e6e3c15adea4a2e592a22c92\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.0.2] C:\Users\Zoha\.gradle\caches\transforms-1\files-1.1\support-core-ui-27.0.2.aar\aaa41168e6e3c15adea4a2e592a22c92\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.0.2] C:\Users\Zoha\.gradle\caches\transforms-1\files-1.1\support-compat-27.0.2.aar\2234c4e31641947c87ea0f5e59eac802\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.0.2] C:\Users\Zoha\.gradle\caches\transforms-1\files-1.1\support-compat-27.0.2.aar\2234c4e31641947c87ea0f5e59eac802\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.0.3] C:\Users\Zoha\.gradle\caches\transforms-1\files-1.1\runtime-1.0.3.aar\d8caae45150a3f13bb1435a756725671\AndroidManifest.xml:20:5-22:41
+MERGED from [android.arch.lifecycle:runtime:1.0.3] C:\Users\Zoha\.gradle\caches\transforms-1\files-1.1\runtime-1.0.3.aar\d8caae45150a3f13bb1435a756725671\AndroidManifest.xml:20:5-22:41
+INJECTED from C:\Users\Zoha\StudioProjects\SonayJagnayKayAzkaar1\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\Zoha\StudioProjects\SonayJagnayKayAzkaar1\app\src\main\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from C:\Users\Zoha\StudioProjects\SonayJagnayKayAzkaar1\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Zoha\StudioProjects\SonayJagnayKayAzkaar1\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Zoha\StudioProjects\SonayJagnayKayAzkaar1\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\Users\Zoha\StudioProjects\SonayJagnayKayAzkaar1\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Zoha\StudioProjects\SonayJagnayKayAzkaar1\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Zoha\StudioProjects\SonayJagnayKayAzkaar1\app\src\main\AndroidManifest.xml

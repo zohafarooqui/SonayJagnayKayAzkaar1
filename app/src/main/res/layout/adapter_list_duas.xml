@@ -1,0 +1,90 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/ll_duas_list"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:orientation="horizontal"
+    android:paddingBottom="6dp"
+    android:paddingLeft="12dp"
+    android:paddingRight="12dp"
+    android:paddingTop="6dp"
+    android:background="?android:attr/activatedBackgroundIndicator"
+     >
+
+    <ImageView
+        android:id="@+id/iv_duatype"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center_vertical"
+        android:contentDescription="@string/app_name" />
+
+    <LinearLayout
+        android:layout_width="0dp"
+        android:layout_height="wrap_content"
+        android:layout_weight="1"
+        android:orientation="vertical"
+       >
+
+        <TextView
+            android:id="@+id/tv_dua_arabic"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:lineSpacingExtra="10dp"
+            android:paddingTop="6dp"
+            android:textColor="@color/black"
+            android:singleLine="true"
+            android:textStyle="bold"
+            android:text="@string/sample_arabic_text"
+            android:textSize="20sp" />
+
+        <TextView
+            android:id="@+id/tv_ref_label"
+            android:layout_width="244dp"
+            android:layout_height="wrap_content"
+            android:lineSpacingExtra="10dp"
+            android:padding="6dp"
+            android:singleLine="true"
+            android:text="@string/ref_label"
+            android:textColor="@color/black"
+            android:textSize="18sp"
+            android:textStyle="bold" />
+         
+         <TextView
+            android:id="@+id/tv_dua_ref"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:lineSpacingExtra="10dp"
+            android:paddingTop="6dp"
+            android:singleLine="true"
+             android:textColor="@color/black"
+            android:text="@string/sample_arabic_text"
+            android:textSize="20sp" />
+        
+<View
+    android:layout_width="fill_parent"
+    android:layout_height="1dp"
+    android:layout_gravity="center"
+    android:background="@color/grey"
+    android:textAlignment="center" >
+
+    </View>
+    </LinearLayout>
+    
+   
+
+       
+    <TextView
+        android:id="@+id/dua_no"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+         android:layout_gravity="center_vertical"
+        android:lineSpacingExtra="10dp"
+         android:textStyle="bold"
+         android:textSize="18sp"
+        android:text="@string/list"
+            android:paddingTop="6dp"
+            android:singleLine="true"
+       />
+
+    
+</LinearLayout>

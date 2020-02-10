@@ -1,0 +1,642 @@
+[
+    {
+        "merged": "C:\\Users\\Zoha\\StudioProjects\\SonayJagnayKayAzkaar1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_action_share_icon.png.flat",
+        "source": "C:\\Users\\Zoha\\StudioProjects\\SonayJagnayKayAzkaar1\\app\\src\\main\\res\\drawable-hdpi\\ic_action_share_icon.png"
+    },
+    {
+        "merged": "C:\\Users\\Zoha\\StudioProjects\\SonayJagnayKayAzkaar1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_notification_bg_normal.9.png.flat",
+        "source": "C:\\Users\\Zoha\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-27.0.2.aar\\2234c4e31641947c87ea0f5e59eac802\\res\\drawable-xhdpi-v4\\notification_bg_normal.9.png"
+    },
+    {
+        "merged": "C:\\Users\\Zoha\\StudioProjects\\SonayJagnayKayAzkaar1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_action_share_icon.png.flat",
+        "source": "C:\\Users\\Zoha\\StudioProjects\\SonayJagnayKayAzkaar1\\app\\src\\main\\res\\drawable-xhdpi\\ic_action_share_icon.png"
+    },
+    {
+        "merged": "C:\\Users\\Zoha\\StudioProjects\\SonayJagnayKayAzkaar1\\app\\build\\intermediates\\res\\merged\\debug\\layout_notification_action.xml.flat",
+        "source": "C:\\Users\\Zoha\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-27.0.2.aar\\2234c4e31641947c87ea0f5e59eac802\\res\\layout\\notification_action.xml"
+    },
+    {
+        "merged": "C:\\Users\\Zoha\\StudioProjects\\SonayJagnayKayAzkaar1\\app\\build\\intermediates\\res\\merged\\debug\\raw_s27.mp3.flat",
+        "source": "C:\\Users\\Zoha\\StudioProjects\\SonayJagnayKayAzkaar1\\app\\src\\main\\res\\raw\\s27.mp3"
+    },
+    {
+        "merged": "C:\\Users\\Zoha\\StudioProjects\\SonayJagnayKayAzkaar1\\app\\build\\intermediates\\res\\merged\\debug\\drawable_plus_press.9.png.flat",
+        "source": "C:\\Users\\Zoha\\StudioProjects\\SonayJagnayKayAzkaar1\\app\\src\\main\\res\\drawable\\plus_press.9.png"
+    },
+    {
+        "merged": "C:\\Users\\Zoha\\StudioProjects\\SonayJagnayKayAzkaar1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\Zoha\\StudioProjects\\SonayJagnayKayAzkaar1\\app\\src\\main\\res\\drawable-xxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\Zoha\\StudioProjects\\SonayJagnayKayAzkaar1\\app\\build\\intermediates\\res\\merged\\debug\\raw_s12.mp3.flat",
+        "source": "C:\\Users\\Zoha\\StudioProjects\\SonayJagnayKayAzkaar1\\app\\src\\main\\res\\raw\\s12.mp3"
+    },
+    {
+        "merged": "C:\\Users\\Zoha\\StudioProjects\\SonayJagnayKayAzkaar1\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_single_dua_view_pager.xml.flat",
+        "source": "C:\\Users\\Zoha\\StudioProjects\\SonayJagnayKayAzkaar1\\app\\src\\main\\res\\layout\\fragment_single_dua_view_pager.xml"
+    },
+    {
+        "merged": "C:\\Users\\Zoha\\StudioProjects\\SonayJagnayKayAzkaar1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4_notification_bg_low_pressed.9.png.flat",
+        "source": "C:\\Users\\Zoha\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-27.0.2.aar\\2234c4e31641947c87ea0f5e59eac802\\res\\drawable-mdpi-v4\\notification_bg_low_pressed.9.png"
+    },
+    {
+        "merged": "C:\\Users\\Zoha\\StudioProjects\\SonayJagnayKayAzkaar1\\app\\build\\intermediates\\res\\merged\\debug\\raw_d3.mp3.flat",
+        "source": "C:\\Users\\Zoha\\StudioProjects\\SonayJagnayKayAzkaar1\\app\\src\\main\\res\\raw\\d3.mp3"
+    },
+    {
+        "merged": "C:\\Users\\Zoha\\StudioProjects\\SonayJagnayKayAzkaar1\\app\\build\\intermediates\\res\\merged\\debug\\drawable_minus.9.png.flat",
+        "source": "C:\\Users\\Zoha\\StudioProjects\\SonayJagnayKayAzkaar1\\app\\src\\main\\res\\drawable\\minus.9.png"
+    },
+    {
+        "merged": "C:\\Users\\Zoha\\StudioProjects\\SonayJagnayKayAzkaar1\\app\\build\\intermediates\\res\\merged\\debug\\drawable_splash.png.flat",
+        "source": "C:\\Users\\Zoha\\StudioProjects\\SonayJagnayKayAzkaar1\\app\\src\\main\\res\\drawable\\splash.png"
+    },
+    {
+        "merged": "C:\\Users\\Zoha\\StudioProjects\\SonayJagnayKayAzkaar1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_action_discard.png.flat",
+        "source": "C:\\Users\\Zoha\\StudioProjects\\SonayJagnayKayAzkaar1\\app\\src\\main\\res\\drawable-hdpi\\ic_action_discard.png"
+    },
+    {
+        "merged": "C:\\Users\\Zoha\\StudioProjects\\SonayJagnayKayAzkaar1\\app\\build\\intermediates\\res\\merged\\debug\\drawable_plus.9.png.flat",
+        "source": "C:\\Users\\Zoha\\StudioProjects\\SonayJagnayKayAzkaar1\\app\\src\\main\\res\\drawable\\plus.9.png"
+    },
+    {
+        "merged": "C:\\Users\\Zoha\\StudioProjects\\SonayJagnayKayAzkaar1\\app\\build\\intermediates\\res\\merged\\debug\\drawable_btn_toggle_bg.xml.flat",
+        "source": "C:\\Users\\Zoha\\StudioProjects\\SonayJagnayKayAzkaar1\\app\\src\\main\\res\\drawable\\btn_toggle_bg.xml"
+    },
+    {
+        "merged": "C:\\Users\\Zoha\\StudioProjects\\SonayJagnayKayAzkaar1\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_splash.xml.flat",
+        "source": "C:\\Users\\Zoha\\StudioProjects\\SonayJagnayKayAzkaar1\\app\\src\\main\\res\\layout\\fragment_splash.xml"
+    },
+    {
+        "merged": "C:\\Users\\Zoha\\StudioProjects\\SonayJagnayKayAzkaar1\\app\\build\\intermediates\\res\\merged\\debug\\font_jameel_noori.ttf.flat",
+        "source": "C:\\Users\\Zoha\\StudioProjects\\SonayJagnayKayAzkaar1\\app\\src\\main\\res\\font\\jameel_noori.ttf"
+    },
+    {
+        "merged": "C:\\Users\\Zoha\\StudioProjects\\SonayJagnayKayAzkaar1\\app\\build\\intermediates\\res\\merged\\debug\\raw_s5.mp3.flat",
+        "source": "C:\\Users\\Zoha\\StudioProjects\\SonayJagnayKayAzkaar1\\app\\src\\main\\res\\raw\\s5.mp3"
+    },
+    {
+        "merged": "C:\\Users\\Zoha\\StudioProjects\\SonayJagnayKayAzkaar1\\app\\build\\intermediates\\res\\merged\\debug\\layout_notification_template_lines_media.xml.flat",
+        "source": "C:\\Users\\Zoha\\.gradle\\caches\\transforms-1\\files-1.1\\support-media-compat-27.0.2.aar\\42048fb4c4e71094f13bc9c4ad25c8ef\\res\\layout\\notification_template_lines_media.xml"
+    },
+    {
+        "merged": "C:\\Users\\Zoha\\StudioProjects\\SonayJagnayKayAzkaar1\\app\\build\\intermediates\\res\\merged\\debug\\raw_s19.mp3.flat",
+        "source": "C:\\Users\\Zoha\\StudioProjects\\SonayJagnayKayAzkaar1\\app\\src\\main\\res\\raw\\s19.mp3"
+    },
+    {
+        "merged": "C:\\Users\\Zoha\\StudioProjects\\SonayJagnayKayAzkaar1\\app\\build\\intermediates\\res\\merged\\debug\\raw_s20.mp3.flat",
+        "source": "C:\\Users\\Zoha\\StudioProjects\\SonayJagnayKayAzkaar1\\app\\src\\main\\res\\raw\\s20.mp3"
+    },
+    {
+        "merged": "C:\\Users\\Zoha\\StudioProjects\\SonayJagnayKayAzkaar1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_rep_off.png.flat",
+        "source": "C:\\Users\\Zoha\\StudioProjects\\SonayJagnayKayAzkaar1\\app\\src\\main\\res\\drawable-hdpi\\ic_rep_off.png"
+    },
+    {
+        "merged": "C:\\Users\\Zoha\\StudioProjects\\SonayJagnayKayAzkaar1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_rep_off.png.flat",
+        "source": "C:\\Users\\Zoha\\StudioProjects\\SonayJagnayKayAzkaar1\\app\\src\\main\\res\\drawable-mdpi\\ic_rep_off.png"
+    },
+    {
+        "merged": "C:\\Users\\Zoha\\StudioProjects\\SonayJagnayKayAzkaar1\\app\\build\\intermediates\\res\\merged\\debug\\drawable_play_btn_custom.xml.flat",
+        "source": "C:\\Users\\Zoha\\StudioProjects\\SonayJagnayKayAzkaar1\\app\\src\\main\\res\\drawable\\play_btn_custom.xml"
+    },
+    {
+        "merged": "C:\\Users\\Zoha\\StudioProjects\\SonayJagnayKayAzkaar1\\app\\build\\intermediates\\res\\merged\\debug\\layout_notification_template_part_chronometer.xml.flat",
+        "source": "C:\\Users\\Zoha\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-27.0.2.aar\\2234c4e31641947c87ea0f5e59eac802\\res\\layout\\notification_template_part_chronometer.xml"
+    },
+    {
+        "merged": "C:\\Users\\Zoha\\StudioProjects\\SonayJagnayKayAzkaar1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21_notification_action_background.xml.flat",
+        "source": "C:\\Users\\Zoha\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-27.0.2.aar\\2234c4e31641947c87ea0f5e59eac802\\res\\drawable-v21\\notification_action_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\Zoha\\StudioProjects\\SonayJagnayKayAzkaar1\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_main.xml.flat",
+        "source": "C:\\Users\\Zoha\\StudioProjects\\SonayJagnayKayAzkaar1\\app\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\Zoha\\StudioProjects\\SonayJagnayKayAzkaar1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4_notify_panel_notification_icon_bg.png.flat",
+        "source": "C:\\Users\\Zoha\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-27.0.2.aar\\2234c4e31641947c87ea0f5e59eac802\\res\\drawable-hdpi-v4\\notify_panel_notification_icon_bg.png"
+    },
+    {
+        "merged": "C:\\Users\\Zoha\\StudioProjects\\SonayJagnayKayAzkaar1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_action_list_icon.png.flat",
+        "source": "C:\\Users\\Zoha\\StudioProjects\\SonayJagnayKayAzkaar1\\app\\src\\main\\res\\drawable-xxhdpi\\ic_action_list_icon.png"
+    },
+    {
+        "merged": "C:\\Users\\Zoha\\StudioProjects\\SonayJagnayKayAzkaar1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_action_settings_icon.png.flat",
+        "source": "C:\\Users\\Zoha\\StudioProjects\\SonayJagnayKayAzkaar1\\app\\src\\main\\res\\drawable-xxhdpi\\ic_action_settings_icon.png"
+    },
+    {
+        "merged": "C:\\Users\\Zoha\\StudioProjects\\SonayJagnayKayAzkaar1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_notification_bg_low_pressed.9.png.flat",
+        "source": "C:\\Users\\Zoha\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-27.0.2.aar\\2234c4e31641947c87ea0f5e59eac802\\res\\drawable-xhdpi-v4\\notification_bg_low_pressed.9.png"
+    },
+    {
+        "merged": "C:\\Users\\Zoha\\StudioProjects\\SonayJagnayKayAzkaar1\\app\\build\\intermediates\\res\\merged\\debug\\raw_s28.mp3.flat",
+        "source": "C:\\Users\\Zoha\\StudioProjects\\SonayJagnayKayAzkaar1\\app\\src\\main\\res\\raw\\s28.mp3"
+    },
+    {
+        "merged": "C:\\Users\\Zoha\\StudioProjects\\SonayJagnayKayAzkaar1\\app\\build\\intermediates\\res\\merged\\debug\\layout-v21_notification_action.xml.flat",
+        "source": "C:\\Users\\Zoha\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-27.0.2.aar\\2234c4e31641947c87ea0f5e59eac802\\res\\layout-v21\\notification_action.xml"
+    },
+    {
+        "merged": "C:\\Users\\Zoha\\StudioProjects\\SonayJagnayKayAzkaar1\\app\\build\\intermediates\\res\\merged\\debug\\drawable_daybutton.png.flat",
+        "source": "C:\\Users\\Zoha\\StudioProjects\\SonayJagnayKayAzkaar1\\app\\src\\main\\res\\drawable\\daybutton.png"
+    },
+    {
+        "merged": "C:\\Users\\Zoha\\StudioProjects\\SonayJagnayKayAzkaar1\\app\\build\\intermediates\\res\\merged\\debug\\raw_s11.mp3.flat",
+        "source": "C:\\Users\\Zoha\\StudioProjects\\SonayJagnayKayAzkaar1\\app\\src\\main\\res\\raw\\s11.mp3"
+    },
+    {
+        "merged": "C:\\Users\\Zoha\\StudioProjects\\SonayJagnayKayAzkaar1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4_notification_bg_normal.9.png.flat",
+        "source": "C:\\Users\\Zoha\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-27.0.2.aar\\2234c4e31641947c87ea0f5e59eac802\\res\\drawable-hdpi-v4\\notification_bg_normal.9.png"
+    },
+    {
+        "merged": "C:\\Users\\Zoha\\StudioProjects\\SonayJagnayKayAzkaar1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_action_pause_icon_w.png.flat",
+        "source": "C:\\Users\\Zoha\\StudioProjects\\SonayJagnayKayAzkaar1\\app\\src\\main\\res\\drawable-hdpi\\ic_action_pause_icon_w.png"
+    },
+    {
+        "merged": "C:\\Users\\Zoha\\StudioProjects\\SonayJagnayKayAzkaar1\\app\\build\\intermediates\\res\\merged\\debug\\drawable_pause_btn_custom.xml.flat",
+        "source": "C:\\Users\\Zoha\\StudioProjects\\SonayJagnayKayAzkaar1\\app\\src\\main\\res\\drawable\\pause_btn_custom.xml"
+    },
+    {
+        "merged": "C:\\Users\\Zoha\\StudioProjects\\SonayJagnayKayAzkaar1\\app\\build\\intermediates\\res\\merged\\debug\\drawable_btn_toggle.xml.flat",
+        "source": "C:\\Users\\Zoha\\StudioProjects\\SonayJagnayKayAzkaar1\\app\\src\\main\\res\\drawable\\btn_toggle.xml"
+    },
+    {
+        "merged": "C:\\Users\\Zoha\\StudioProjects\\SonayJagnayKayAzkaar1\\app\\build\\intermediates\\res\\merged\\debug\\raw_s21.mp3.flat",
+        "source": "C:\\Users\\Zoha\\StudioProjects\\SonayJagnayKayAzkaar1\\app\\src\\main\\res\\raw\\s21.mp3"
+    },
+    {
+        "merged": "C:\\Users\\Zoha\\StudioProjects\\SonayJagnayKayAzkaar1\\app\\build\\intermediates\\res\\merged\\debug\\drawable_list_custom.xml.flat",
+        "source": "C:\\Users\\Zoha\\StudioProjects\\SonayJagnayKayAzkaar1\\app\\src\\main\\res\\drawable\\list_custom.xml"
+    },
+    {
+        "merged": "C:\\Users\\Zoha\\StudioProjects\\SonayJagnayKayAzkaar1\\app\\build\\intermediates\\res\\merged\\debug\\raw_s18.mp3.flat",
+        "source": "C:\\Users\\Zoha\\StudioProjects\\SonayJagnayKayAzkaar1\\app\\src\\main\\res\\raw\\s18.mp3"
+    },
+    {
+        "merged": "C:\\Users\\Zoha\\StudioProjects\\SonayJagnayKayAzkaar1\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_single_dua.xml.flat",
+        "source": "C:\\Users\\Zoha\\StudioProjects\\SonayJagnayKayAzkaar1\\app\\src\\main\\res\\layout\\fragment_single_dua.xml"
+    },
+    {
+        "merged": "C:\\Users\\Zoha\\StudioProjects\\SonayJagnayKayAzkaar1\\app\\build\\intermediates\\res\\merged\\debug\\raw_s6.mp3.flat",
+        "source": "C:\\Users\\Zoha\\StudioProjects\\SonayJagnayKayAzkaar1\\app\\src\\main\\res\\raw\\s6.mp3"
+    },
+    {
+        "merged": "C:\\Users\\Zoha\\StudioProjects\\SonayJagnayKayAzkaar1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4_notification_bg_low_normal.9.png.flat",
+        "source": "C:\\Users\\Zoha\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-27.0.2.aar\\2234c4e31641947c87ea0f5e59eac802\\res\\drawable-mdpi-v4\\notification_bg_low_normal.9.png"
+    },
+    {
+        "merged": "C:\\Users\\Zoha\\StudioProjects\\SonayJagnayKayAzkaar1\\app\\build\\intermediates\\res\\merged\\debug\\layout-v16_notification_template_custom_big.xml.flat",
+        "source": "C:\\Users\\Zoha\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-27.0.2.aar\\2234c4e31641947c87ea0f5e59eac802\\res\\layout-v16\\notification_template_custom_big.xml"
+    },
+    {
+        "merged": "C:\\Users\\Zoha\\StudioProjects\\SonayJagnayKayAzkaar1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_action_play_icon_w.png.flat",
+        "source": "C:\\Users\\Zoha\\StudioProjects\\SonayJagnayKayAzkaar1\\app\\src\\main\\res\\drawable-xxhdpi\\ic_action_play_icon_w.png"
+    },
+    {
+        "merged": "C:\\Users\\Zoha\\StudioProjects\\SonayJagnayKayAzkaar1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4_notify_panel_notification_icon_bg.png.flat",
+        "source": "C:\\Users\\Zoha\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-27.0.2.aar\\2234c4e31641947c87ea0f5e59eac802\\res\\drawable-mdpi-v4\\notify_panel_notification_icon_bg.png"
+    },
+    {
+        "merged": "C:\\Users\\Zoha\\StudioProjects\\SonayJagnayKayAzkaar1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_rep_on.png.flat",
+        "source": "C:\\Users\\Zoha\\StudioProjects\\SonayJagnayKayAzkaar1\\app\\src\\main\\res\\drawable-hdpi\\ic_rep_on.png"
+    },
+    {
+        "merged": "C:\\Users\\Zoha\\StudioProjects\\SonayJagnayKayAzkaar1\\app\\build\\intermediates\\res\\merged\\debug\\layout_notification_template_media_custom.xml.flat",
+        "source": "C:\\Users\\Zoha\\.gradle\\caches\\transforms-1\\files-1.1\\support-media-compat-27.0.2.aar\\42048fb4c4e71094f13bc9c4ad25c8ef\\res\\layout\\notification_template_media_custom.xml"
+    },
+    {
+        "merged": "C:\\Users\\Zoha\\StudioProjects\\SonayJagnayKayAzkaar1\\app\\build\\intermediates\\res\\merged\\debug\\raw_s25.mp3.flat",
+        "source": "C:\\Users\\Zoha\\StudioProjects\\SonayJagnayKayAzkaar1\\app\\src\\main\\res\\raw\\s25.mp3"
+    },
+    {
+        "merged": "C:\\Users\\Zoha\\StudioProjects\\SonayJagnayKayAzkaar1\\app\\build\\intermediates\\res\\merged\\debug\\drawable_notification_tile_bg.xml.flat",
+        "source": "C:\\Users\\Zoha\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-27.0.2.aar\\2234c4e31641947c87ea0f5e59eac802\\res\\drawable\\notification_tile_bg.xml"
+    },
+    {
+        "merged": "C:\\Users\\Zoha\\StudioProjects\\SonayJagnayKayAzkaar1\\app\\build\\intermediates\\res\\merged\\debug\\raw_s3.mp3.flat",
+        "source": "C:\\Users\\Zoha\\StudioProjects\\SonayJagnayKayAzkaar1\\app\\src\\main\\res\\raw\\s3.mp3"
+    },
+    {
+        "merged": "C:\\Users\\Zoha\\StudioProjects\\SonayJagnayKayAzkaar1\\app\\build\\intermediates\\res\\merged\\debug\\raw_d2.mp3.flat",
+        "source": "C:\\Users\\Zoha\\StudioProjects\\SonayJagnayKayAzkaar1\\app\\src\\main\\res\\raw\\d2.mp3"
+    },
+    {
+        "merged": "C:\\Users\\Zoha\\StudioProjects\\SonayJagnayKayAzkaar1\\app\\build\\intermediates\\res\\merged\\debug\\raw_s17.mp3.flat",
+        "source": "C:\\Users\\Zoha\\StudioProjects\\SonayJagnayKayAzkaar1\\app\\src\\main\\res\\raw\\s17.mp3"
+    },
+    {
+        "merged": "C:\\Users\\Zoha\\StudioProjects\\SonayJagnayKayAzkaar1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_action_play_all_icon.png.flat",
+        "source": "C:\\Users\\Zoha\\StudioProjects\\SonayJagnayKayAzkaar1\\app\\src\\main\\res\\drawable-mdpi\\ic_action_play_all_icon.png"
+    },
+    {
+        "merged": "C:\\Users\\Zoha\\StudioProjects\\SonayJagnayKayAzkaar1\\app\\build\\intermediates\\res\\merged\\debug\\drawable_togbtn_fav_custom.xml.flat",
+        "source": "C:\\Users\\Zoha\\StudioProjects\\SonayJagnayKayAzkaar1\\app\\src\\main\\res\\drawable\\togbtn_fav_custom.xml"
+    },
+    {
+        "merged": "C:\\Users\\Zoha\\StudioProjects\\SonayJagnayKayAzkaar1\\app\\build\\intermediates\\res\\merged\\debug\\layout_notification_template_part_time.xml.flat",
+        "source": "C:\\Users\\Zoha\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-27.0.2.aar\\2234c4e31641947c87ea0f5e59eac802\\res\\layout\\notification_template_part_time.xml"
+    },
+    {
+        "merged": "C:\\Users\\Zoha\\StudioProjects\\SonayJagnayKayAzkaar1\\app\\build\\intermediates\\res\\merged\\debug\\raw_s22.mp3.flat",
+        "source": "C:\\Users\\Zoha\\StudioProjects\\SonayJagnayKayAzkaar1\\app\\src\\main\\res\\raw\\s22.mp3"
+    },
+    {
+        "merged": "C:\\Users\\Zoha\\StudioProjects\\SonayJagnayKayAzkaar1\\app\\build\\intermediates\\res\\merged\\debug\\raw_s2.mp3.flat",
+        "source": "C:\\Users\\Zoha\\StudioProjects\\SonayJagnayKayAzkaar1\\app\\src\\main\\res\\raw\\s2.mp3"
+    },
+    {
+        "merged": "C:\\Users\\Zoha\\StudioProjects\\SonayJagnayKayAzkaar1\\app\\build\\intermediates\\res\\merged\\debug\\drawable_menu_header.xml.flat",
+        "source": "C:\\Users\\Zoha\\StudioProjects\\SonayJagnayKayAzkaar1\\app\\src\\main\\res\\drawable\\menu_header.xml"
+    },
+    {
+        "merged": "C:\\Users\\Zoha\\StudioProjects\\SonayJagnayKayAzkaar1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4_notification_bg_low_pressed.9.png.flat",
+        "source": "C:\\Users\\Zoha\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-27.0.2.aar\\2234c4e31641947c87ea0f5e59eac802\\res\\drawable-hdpi-v4\\notification_bg_low_pressed.9.png"
+    },
+    {
+        "merged": "C:\\Users\\Zoha\\StudioProjects\\SonayJagnayKayAzkaar1\\app\\build\\intermediates\\res\\merged\\debug\\raw_s14.mp3.flat",
+        "source": "C:\\Users\\Zoha\\StudioProjects\\SonayJagnayKayAzkaar1\\app\\src\\main\\res\\raw\\s14.mp3"
+    },
+    {
+        "merged": "C:\\Users\\Zoha\\StudioProjects\\SonayJagnayKayAzkaar1\\app\\build\\intermediates\\res\\merged\\debug\\layout_notification_template_big_media_narrow_custom.xml.flat",
+        "source": "C:\\Users\\Zoha\\.gradle\\caches\\transforms-1\\files-1.1\\support-media-compat-27.0.2.aar\\42048fb4c4e71094f13bc9c4ad25c8ef\\res\\layout\\notification_template_big_media_narrow_custom.xml"
+    },
+    {
+        "merged": "C:\\Users\\Zoha\\StudioProjects\\SonayJagnayKayAzkaar1\\app\\build\\intermediates\\res\\merged\\debug\\layout_notification_media_action.xml.flat",
+        "source": "C:\\Users\\Zoha\\.gradle\\caches\\transforms-1\\files-1.1\\support-media-compat-27.0.2.aar\\42048fb4c4e71094f13bc9c4ad25c8ef\\res\\layout\\notification_media_action.xml"
+    },
+    {
+        "merged": "C:\\Users\\Zoha\\StudioProjects\\SonayJagnayKayAzkaar1\\app\\build\\intermediates\\res\\merged\\debug\\raw_d5.mp3.flat",
+        "source": "C:\\Users\\Zoha\\StudioProjects\\SonayJagnayKayAzkaar1\\app\\src\\main\\res\\raw\\d5.mp3"
+    },
+    {
+        "merged": "C:\\Users\\Zoha\\StudioProjects\\SonayJagnayKayAzkaar1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_action_play_all_icon.png.flat",
+        "source": "C:\\Users\\Zoha\\StudioProjects\\SonayJagnayKayAzkaar1\\app\\src\\main\\res\\drawable-hdpi\\ic_action_play_all_icon.png"
+    },
+    {
+        "merged": "C:\\Users\\Zoha\\StudioProjects\\SonayJagnayKayAzkaar1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4_notification_bg_normal_pressed.9.png.flat",
+        "source": "C:\\Users\\Zoha\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-27.0.2.aar\\2234c4e31641947c87ea0f5e59eac802\\res\\drawable-hdpi-v4\\notification_bg_normal_pressed.9.png"
+    },
+    {
+        "merged": "C:\\Users\\Zoha\\StudioProjects\\SonayJagnayKayAzkaar1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_day_list_icon.png.flat",
+        "source": "C:\\Users\\Zoha\\StudioProjects\\SonayJagnayKayAzkaar1\\app\\src\\main\\res\\drawable-hdpi\\day_list_icon.png"
+    },
+    {
+        "merged": "C:\\Users\\Zoha\\StudioProjects\\SonayJagnayKayAzkaar1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4_notification_bg_normal_pressed.9.png.flat",
+        "source": "C:\\Users\\Zoha\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-27.0.2.aar\\2234c4e31641947c87ea0f5e59eac802\\res\\drawable-mdpi-v4\\notification_bg_normal_pressed.9.png"
+    },
+    {
+        "merged": "C:\\Users\\Zoha\\StudioProjects\\SonayJagnayKayAzkaar1\\app\\build\\intermediates\\res\\merged\\debug\\layout_notification_template_icon_group.xml.flat",
+        "source": "C:\\Users\\Zoha\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-27.0.2.aar\\2234c4e31641947c87ea0f5e59eac802\\res\\layout\\notification_template_icon_group.xml"
+    },
+    {
+        "merged": "C:\\Users\\Zoha\\StudioProjects\\SonayJagnayKayAzkaar1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_action_fav_unmarked_icon.png.flat",
+        "source": "C:\\Users\\Zoha\\StudioProjects\\SonayJagnayKayAzkaar1\\app\\src\\main\\res\\drawable-xhdpi\\ic_action_fav_unmarked_icon.png"
+    },
+    {
+        "merged": "C:\\Users\\Zoha\\StudioProjects\\SonayJagnayKayAzkaar1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_notify_panel_notification_icon_bg.png.flat",
+        "source": "C:\\Users\\Zoha\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-27.0.2.aar\\2234c4e31641947c87ea0f5e59eac802\\res\\drawable-xhdpi-v4\\notify_panel_notification_icon_bg.png"
+    },
+    {
+        "merged": "C:\\Users\\Zoha\\StudioProjects\\SonayJagnayKayAzkaar1\\app\\build\\intermediates\\res\\merged\\debug\\layout-v21_notification_template_icon_group.xml.flat",
+        "source": "C:\\Users\\Zoha\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-27.0.2.aar\\2234c4e31641947c87ea0f5e59eac802\\res\\layout-v21\\notification_template_icon_group.xml"
+    },
+    {
+        "merged": "C:\\Users\\Zoha\\StudioProjects\\SonayJagnayKayAzkaar1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_action_pause_icon_w.png.flat",
+        "source": "C:\\Users\\Zoha\\StudioProjects\\SonayJagnayKayAzkaar1\\app\\src\\main\\res\\drawable-xhdpi\\ic_action_pause_icon_w.png"
+    },
+    {
+        "merged": "C:\\Users\\Zoha\\StudioProjects\\SonayJagnayKayAzkaar1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_action_fav_marked_icon.png.flat",
+        "source": "C:\\Users\\Zoha\\StudioProjects\\SonayJagnayKayAzkaar1\\app\\src\\main\\res\\drawable-xhdpi\\ic_action_fav_marked_icon.png"
+    },
+    {
+        "merged": "C:\\Users\\Zoha\\StudioProjects\\SonayJagnayKayAzkaar1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_action_settings_icon.png.flat",
+        "source": "C:\\Users\\Zoha\\StudioProjects\\SonayJagnayKayAzkaar1\\app\\src\\main\\res\\drawable-mdpi\\ic_action_settings_icon.png"
+    },
+    {
+        "merged": "C:\\Users\\Zoha\\StudioProjects\\SonayJagnayKayAzkaar1\\app\\build\\intermediates\\res\\merged\\debug\\drawable_minus_press.9.png.flat",
+        "source": "C:\\Users\\Zoha\\StudioProjects\\SonayJagnayKayAzkaar1\\app\\src\\main\\res\\drawable\\minus_press.9.png"
+    },
+    {
+        "merged": "C:\\Users\\Zoha\\StudioProjects\\SonayJagnayKayAzkaar1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_night_list_icon.png.flat",
+        "source": "C:\\Users\\Zoha\\StudioProjects\\SonayJagnayKayAzkaar1\\app\\src\\main\\res\\drawable-hdpi\\night_list_icon.png"
+    },
+    {
+        "merged": "C:\\Users\\Zoha\\StudioProjects\\SonayJagnayKayAzkaar1\\app\\build\\intermediates\\res\\merged\\debug\\raw_s8.mp3.flat",
+        "source": "C:\\Users\\Zoha\\StudioProjects\\SonayJagnayKayAzkaar1\\app\\src\\main\\res\\raw\\s8.mp3"
+    },
+    {
+        "merged": "C:\\Users\\Zoha\\StudioProjects\\SonayJagnayKayAzkaar1\\app\\build\\intermediates\\res\\merged\\debug\\raw_d7.mp3.flat",
+        "source": "C:\\Users\\Zoha\\StudioProjects\\SonayJagnayKayAzkaar1\\app\\src\\main\\res\\raw\\d7.mp3"
+    },
+    {
+        "merged": "C:\\Users\\Zoha\\StudioProjects\\SonayJagnayKayAzkaar1\\app\\build\\intermediates\\res\\merged\\debug\\drawable_plus_custom.xml.flat",
+        "source": "C:\\Users\\Zoha\\StudioProjects\\SonayJagnayKayAzkaar1\\app\\src\\main\\res\\drawable\\plus_custom.xml"
+    },
+    {
+        "merged": "C:\\Users\\Zoha\\StudioProjects\\SonayJagnayKayAzkaar1\\app\\build\\intermediates\\res\\merged\\debug\\layout_notification_template_media.xml.flat",
+        "source": "C:\\Users\\Zoha\\.gradle\\caches\\transforms-1\\files-1.1\\support-media-compat-27.0.2.aar\\42048fb4c4e71094f13bc9c4ad25c8ef\\res\\layout\\notification_template_media.xml"
+    },
+    {
+        "merged": "C:\\Users\\Zoha\\StudioProjects\\SonayJagnayKayAzkaar1\\app\\build\\intermediates\\res\\merged\\debug\\drawable_minus_custom.xml.flat",
+        "source": "C:\\Users\\Zoha\\StudioProjects\\SonayJagnayKayAzkaar1\\app\\src\\main\\res\\drawable\\minus_custom.xml"
+    },
+    {
+        "merged": "C:\\Users\\Zoha\\StudioProjects\\SonayJagnayKayAzkaar1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_action_share_icon.png.flat",
+        "source": "C:\\Users\\Zoha\\StudioProjects\\SonayJagnayKayAzkaar1\\app\\src\\main\\res\\drawable-mdpi\\ic_action_share_icon.png"
+    },
+    {
+        "merged": "C:\\Users\\Zoha\\StudioProjects\\SonayJagnayKayAzkaar1\\app\\build\\intermediates\\res\\merged\\debug\\drawable_sleepbutton.png.flat",
+        "source": "C:\\Users\\Zoha\\StudioProjects\\SonayJagnayKayAzkaar1\\app\\src\\main\\res\\drawable\\sleepbutton.png"
+    },
+    {
+        "merged": "C:\\Users\\Zoha\\StudioProjects\\SonayJagnayKayAzkaar1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_notification_bg_normal_pressed.9.png.flat",
+        "source": "C:\\Users\\Zoha\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-27.0.2.aar\\2234c4e31641947c87ea0f5e59eac802\\res\\drawable-xhdpi-v4\\notification_bg_normal_pressed.9.png"
+    },
+    {
+        "merged": "C:\\Users\\Zoha\\StudioProjects\\SonayJagnayKayAzkaar1\\app\\build\\intermediates\\res\\merged\\debug\\raw_s23.mp3.flat",
+        "source": "C:\\Users\\Zoha\\StudioProjects\\SonayJagnayKayAzkaar1\\app\\src\\main\\res\\raw\\s23.mp3"
+    },
+    {
+        "merged": "C:\\Users\\Zoha\\StudioProjects\\SonayJagnayKayAzkaar1\\app\\build\\intermediates\\res\\merged\\debug\\raw_s16.mp3.flat",
+        "source": "C:\\Users\\Zoha\\StudioProjects\\SonayJagnayKayAzkaar1\\app\\src\\main\\res\\raw\\s16.mp3"
+    },
+    {
+        "merged": "C:\\Users\\Zoha\\StudioProjects\\SonayJagnayKayAzkaar1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_action_discard.png.flat",
+        "source": "C:\\Users\\Zoha\\StudioProjects\\SonayJagnayKayAzkaar1\\app\\src\\main\\res\\drawable-xxhdpi\\ic_action_discard.png"
+    },
+    {
+        "merged": "C:\\Users\\Zoha\\StudioProjects\\SonayJagnayKayAzkaar1\\app\\build\\intermediates\\res\\merged\\debug\\layout_notification_template_big_media_narrow.xml.flat",
+        "source": "C:\\Users\\Zoha\\.gradle\\caches\\transforms-1\\files-1.1\\support-media-compat-27.0.2.aar\\42048fb4c4e71094f13bc9c4ad25c8ef\\res\\layout\\notification_template_big_media_narrow.xml"
+    },
+    {
+        "merged": "C:\\Users\\Zoha\\StudioProjects\\SonayJagnayKayAzkaar1\\app\\build\\intermediates\\res\\merged\\debug\\drawable_settings_custom.xml.flat",
+        "source": "C:\\Users\\Zoha\\StudioProjects\\SonayJagnayKayAzkaar1\\app\\src\\main\\res\\drawable\\settings_custom.xml"
+    },
+    {
+        "merged": "C:\\Users\\Zoha\\StudioProjects\\SonayJagnayKayAzkaar1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4_notification_bg_normal.9.png.flat",
+        "source": "C:\\Users\\Zoha\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-27.0.2.aar\\2234c4e31641947c87ea0f5e59eac802\\res\\drawable-mdpi-v4\\notification_bg_normal.9.png"
+    },
+    {
+        "merged": "C:\\Users\\Zoha\\StudioProjects\\SonayJagnayKayAzkaar1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4_notification_bg_low_normal.9.png.flat",
+        "source": "C:\\Users\\Zoha\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-27.0.2.aar\\2234c4e31641947c87ea0f5e59eac802\\res\\drawable-hdpi-v4\\notification_bg_low_normal.9.png"
+    },
+    {
+        "merged": "C:\\Users\\Zoha\\StudioProjects\\SonayJagnayKayAzkaar1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_action_fav_marked_icon.png.flat",
+        "source": "C:\\Users\\Zoha\\StudioProjects\\SonayJagnayKayAzkaar1\\app\\src\\main\\res\\drawable-hdpi\\ic_action_fav_marked_icon.png"
+    },
+    {
+        "merged": "C:\\Users\\Zoha\\StudioProjects\\SonayJagnayKayAzkaar1\\app\\build\\intermediates\\res\\merged\\debug\\drawable_togbtn_repeat.xml.flat",
+        "source": "C:\\Users\\Zoha\\StudioProjects\\SonayJagnayKayAzkaar1\\app\\src\\main\\res\\drawable\\togbtn_repeat.xml"
+    },
+    {
+        "merged": "C:\\Users\\Zoha\\StudioProjects\\SonayJagnayKayAzkaar1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_action_fav_marked_icon.png.flat",
+        "source": "C:\\Users\\Zoha\\StudioProjects\\SonayJagnayKayAzkaar1\\app\\src\\main\\res\\drawable-xxhdpi\\ic_action_fav_marked_icon.png"
+    },
+    {
+        "merged": "C:\\Users\\Zoha\\StudioProjects\\SonayJagnayKayAzkaar1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_action_discard.png.flat",
+        "source": "C:\\Users\\Zoha\\StudioProjects\\SonayJagnayKayAzkaar1\\app\\src\\main\\res\\drawable-mdpi\\ic_action_discard.png"
+    },
+    {
+        "merged": "C:\\Users\\Zoha\\StudioProjects\\SonayJagnayKayAzkaar1\\app\\build\\intermediates\\res\\merged\\debug\\layout-v21_notification_template_custom_big.xml.flat",
+        "source": "C:\\Users\\Zoha\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-27.0.2.aar\\2234c4e31641947c87ea0f5e59eac802\\res\\layout-v21\\notification_template_custom_big.xml"
+    },
+    {
+        "merged": "C:\\Users\\Zoha\\StudioProjects\\SonayJagnayKayAzkaar1\\app\\build\\intermediates\\res\\merged\\debug\\raw_d0.mp3.flat",
+        "source": "C:\\Users\\Zoha\\StudioProjects\\SonayJagnayKayAzkaar1\\app\\src\\main\\res\\raw\\d0.mp3"
+    },
+    {
+        "merged": "C:\\Users\\Zoha\\StudioProjects\\SonayJagnayKayAzkaar1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\Zoha\\StudioProjects\\SonayJagnayKayAzkaar1\\app\\src\\main\\res\\drawable-mdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\Zoha\\StudioProjects\\SonayJagnayKayAzkaar1\\app\\build\\intermediates\\res\\merged\\debug\\raw_d6.mp3.flat",
+        "source": "C:\\Users\\Zoha\\StudioProjects\\SonayJagnayKayAzkaar1\\app\\src\\main\\res\\raw\\d6.mp3"
+    },
+    {
+        "merged": "C:\\Users\\Zoha\\StudioProjects\\SonayJagnayKayAzkaar1\\app\\build\\intermediates\\res\\merged\\debug\\drawable_notification_bg.xml.flat",
+        "source": "C:\\Users\\Zoha\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-27.0.2.aar\\2234c4e31641947c87ea0f5e59eac802\\res\\drawable\\notification_bg.xml"
+    },
+    {
+        "merged": "C:\\Users\\Zoha\\StudioProjects\\SonayJagnayKayAzkaar1\\app\\build\\intermediates\\res\\merged\\debug\\raw_s0.mp3.flat",
+        "source": "C:\\Users\\Zoha\\StudioProjects\\SonayJagnayKayAzkaar1\\app\\src\\main\\res\\raw\\s0.mp3"
+    },
+    {
+        "merged": "C:\\Users\\Zoha\\StudioProjects\\SonayJagnayKayAzkaar1\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_settings.xml.flat",
+        "source": "C:\\Users\\Zoha\\StudioProjects\\SonayJagnayKayAzkaar1\\app\\src\\main\\res\\layout\\fragment_settings.xml"
+    },
+    {
+        "merged": "C:\\Users\\Zoha\\StudioProjects\\SonayJagnayKayAzkaar1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_action_settings_icon.png.flat",
+        "source": "C:\\Users\\Zoha\\StudioProjects\\SonayJagnayKayAzkaar1\\app\\src\\main\\res\\drawable-xhdpi\\ic_action_settings_icon.png"
+    },
+    {
+        "merged": "C:\\Users\\Zoha\\StudioProjects\\SonayJagnayKayAzkaar1\\app\\build\\intermediates\\res\\merged\\debug\\raw_s24.mp3.flat",
+        "source": "C:\\Users\\Zoha\\StudioProjects\\SonayJagnayKayAzkaar1\\app\\src\\main\\res\\raw\\s24.mp3"
+    },
+    {
+        "merged": "C:\\Users\\Zoha\\StudioProjects\\SonayJagnayKayAzkaar1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_action_settings_icon.png.flat",
+        "source": "C:\\Users\\Zoha\\StudioProjects\\SonayJagnayKayAzkaar1\\app\\src\\main\\res\\drawable-hdpi\\ic_action_settings_icon.png"
+    },
+    {
+        "merged": "C:\\Users\\Zoha\\StudioProjects\\SonayJagnayKayAzkaar1\\app\\build\\intermediates\\res\\merged\\debug\\raw_s9.mp3.flat",
+        "source": "C:\\Users\\Zoha\\StudioProjects\\SonayJagnayKayAzkaar1\\app\\src\\main\\res\\raw\\s9.mp3"
+    },
+    {
+        "merged": "C:\\Users\\Zoha\\StudioProjects\\SonayJagnayKayAzkaar1\\app\\build\\intermediates\\res\\merged\\debug\\layout_notification_media_cancel_action.xml.flat",
+        "source": "C:\\Users\\Zoha\\.gradle\\caches\\transforms-1\\files-1.1\\support-media-compat-27.0.2.aar\\42048fb4c4e71094f13bc9c4ad25c8ef\\res\\layout\\notification_media_cancel_action.xml"
+    },
+    {
+        "merged": "C:\\Users\\Zoha\\StudioProjects\\SonayJagnayKayAzkaar1\\app\\build\\intermediates\\res\\merged\\debug\\font_arabic.xml.flat",
+        "source": "C:\\Users\\Zoha\\StudioProjects\\SonayJagnayKayAzkaar1\\app\\src\\main\\res\\font\\arabic.xml"
+    },
+    {
+        "merged": "C:\\Users\\Zoha\\StudioProjects\\SonayJagnayKayAzkaar1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_action_fav_unmarked_icon.png.flat",
+        "source": "C:\\Users\\Zoha\\StudioProjects\\SonayJagnayKayAzkaar1\\app\\src\\main\\res\\drawable-mdpi\\ic_action_fav_unmarked_icon.png"
+    },
+    {
+        "merged": "C:\\Users\\Zoha\\StudioProjects\\SonayJagnayKayAzkaar1\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_duas_list.xml.flat",
+        "source": "C:\\Users\\Zoha\\StudioProjects\\SonayJagnayKayAzkaar1\\app\\src\\main\\res\\layout\\fragment_duas_list.xml"
+    },
+    {
+        "merged": "C:\\Users\\Zoha\\StudioProjects\\SonayJagnayKayAzkaar1\\app\\build\\intermediates\\res\\merged\\debug\\raw_s15.mp3.flat",
+        "source": "C:\\Users\\Zoha\\StudioProjects\\SonayJagnayKayAzkaar1\\app\\src\\main\\res\\raw\\s15.mp3"
+    },
+    {
+        "merged": "C:\\Users\\Zoha\\StudioProjects\\SonayJagnayKayAzkaar1\\app\\build\\intermediates\\res\\merged\\debug\\menu_activity_main.xml.flat",
+        "source": "C:\\Users\\Zoha\\StudioProjects\\SonayJagnayKayAzkaar1\\app\\src\\main\\res\\menu\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\Zoha\\StudioProjects\\SonayJagnayKayAzkaar1\\app\\build\\intermediates\\res\\merged\\debug\\drawable_play_all.xml.flat",
+        "source": "C:\\Users\\Zoha\\StudioProjects\\SonayJagnayKayAzkaar1\\app\\src\\main\\res\\drawable\\play_all.xml"
+    },
+    {
+        "merged": "C:\\Users\\Zoha\\StudioProjects\\SonayJagnayKayAzkaar1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_action_fav_marked_icon.png.flat",
+        "source": "C:\\Users\\Zoha\\StudioProjects\\SonayJagnayKayAzkaar1\\app\\src\\main\\res\\drawable-mdpi\\ic_action_fav_marked_icon.png"
+    },
+    {
+        "merged": "C:\\Users\\Zoha\\StudioProjects\\SonayJagnayKayAzkaar1\\app\\build\\intermediates\\res\\merged\\debug\\drawable_notification_icon_background.xml.flat",
+        "source": "C:\\Users\\Zoha\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-27.0.2.aar\\2234c4e31641947c87ea0f5e59eac802\\res\\drawable\\notification_icon_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\Zoha\\StudioProjects\\SonayJagnayKayAzkaar1\\app\\build\\intermediates\\res\\merged\\debug\\drawable_share_custom.xml.flat",
+        "source": "C:\\Users\\Zoha\\StudioProjects\\SonayJagnayKayAzkaar1\\app\\src\\main\\res\\drawable\\share_custom.xml"
+    },
+    {
+        "merged": "C:\\Users\\Zoha\\StudioProjects\\SonayJagnayKayAzkaar1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_rep_off.png.flat",
+        "source": "C:\\Users\\Zoha\\StudioProjects\\SonayJagnayKayAzkaar1\\app\\src\\main\\res\\drawable-xxhdpi\\ic_rep_off.png"
+    },
+    {
+        "merged": "C:\\Users\\Zoha\\StudioProjects\\SonayJagnayKayAzkaar1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\Zoha\\StudioProjects\\SonayJagnayKayAzkaar1\\app\\src\\main\\res\\drawable-xhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\Zoha\\StudioProjects\\SonayJagnayKayAzkaar1\\app\\build\\intermediates\\res\\merged\\debug\\font_jameel.xml.flat",
+        "source": "C:\\Users\\Zoha\\StudioProjects\\SonayJagnayKayAzkaar1\\app\\src\\main\\res\\font\\jameel.xml"
+    },
+    {
+        "merged": "C:\\Users\\Zoha\\StudioProjects\\SonayJagnayKayAzkaar1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_action_pause_icon_w.png.flat",
+        "source": "C:\\Users\\Zoha\\StudioProjects\\SonayJagnayKayAzkaar1\\app\\src\\main\\res\\drawable-xxhdpi\\ic_action_pause_icon_w.png"
+    },
+    {
+        "merged": "C:\\Users\\Zoha\\StudioProjects\\SonayJagnayKayAzkaar1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_rep_on.png.flat",
+        "source": "C:\\Users\\Zoha\\StudioProjects\\SonayJagnayKayAzkaar1\\app\\src\\main\\res\\drawable-xxhdpi\\ic_rep_on.png"
+    },
+    {
+        "merged": "C:\\Users\\Zoha\\StudioProjects\\SonayJagnayKayAzkaar1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_action_discard.png.flat",
+        "source": "C:\\Users\\Zoha\\StudioProjects\\SonayJagnayKayAzkaar1\\app\\src\\main\\res\\drawable-xhdpi\\ic_action_discard.png"
+    },
+    {
+        "merged": "C:\\Users\\Zoha\\StudioProjects\\SonayJagnayKayAzkaar1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_action_play_icon_w.png.flat",
+        "source": "C:\\Users\\Zoha\\StudioProjects\\SonayJagnayKayAzkaar1\\app\\src\\main\\res\\drawable-hdpi\\ic_action_play_icon_w.png"
+    },
+    {
+        "merged": "C:\\Users\\Zoha\\StudioProjects\\SonayJagnayKayAzkaar1\\app\\build\\intermediates\\res\\merged\\debug\\raw_s10.mp3.flat",
+        "source": "C:\\Users\\Zoha\\StudioProjects\\SonayJagnayKayAzkaar1\\app\\src\\main\\res\\raw\\s10.mp3"
+    },
+    {
+        "merged": "C:\\Users\\Zoha\\StudioProjects\\SonayJagnayKayAzkaar1\\app\\build\\intermediates\\res\\merged\\debug\\layout-v21_notification_action_tombstone.xml.flat",
+        "source": "C:\\Users\\Zoha\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-27.0.2.aar\\2234c4e31641947c87ea0f5e59eac802\\res\\layout-v21\\notification_action_tombstone.xml"
+    },
+    {
+        "merged": "C:\\Users\\Zoha\\StudioProjects\\SonayJagnayKayAzkaar1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_action_pause_icon_w.png.flat",
+        "source": "C:\\Users\\Zoha\\StudioProjects\\SonayJagnayKayAzkaar1\\app\\src\\main\\res\\drawable-mdpi\\ic_action_pause_icon_w.png"
+    },
+    {
+        "merged": "C:\\Users\\Zoha\\StudioProjects\\SonayJagnayKayAzkaar1\\app\\build\\intermediates\\res\\merged\\debug\\layout_notification_action_tombstone.xml.flat",
+        "source": "C:\\Users\\Zoha\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-27.0.2.aar\\2234c4e31641947c87ea0f5e59eac802\\res\\layout\\notification_action_tombstone.xml"
+    },
+    {
+        "merged": "C:\\Users\\Zoha\\StudioProjects\\SonayJagnayKayAzkaar1\\app\\build\\intermediates\\res\\merged\\debug\\drawable_notification_bg_low.xml.flat",
+        "source": "C:\\Users\\Zoha\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-27.0.2.aar\\2234c4e31641947c87ea0f5e59eac802\\res\\drawable\\notification_bg_low.xml"
+    },
+    {
+        "merged": "C:\\Users\\Zoha\\StudioProjects\\SonayJagnayKayAzkaar1\\app\\build\\intermediates\\res\\merged\\debug\\layout_notification_template_big_media_custom.xml.flat",
+        "source": "C:\\Users\\Zoha\\.gradle\\caches\\transforms-1\\files-1.1\\support-media-compat-27.0.2.aar\\42048fb4c4e71094f13bc9c4ad25c8ef\\res\\layout\\notification_template_big_media_custom.xml"
+    },
+    {
+        "merged": "C:\\Users\\Zoha\\StudioProjects\\SonayJagnayKayAzkaar1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_action_play_all_icon.png.flat",
+        "source": "C:\\Users\\Zoha\\StudioProjects\\SonayJagnayKayAzkaar1\\app\\src\\main\\res\\drawable-xxhdpi\\ic_action_play_all_icon.png"
+    },
+    {
+        "merged": "C:\\Users\\Zoha\\StudioProjects\\SonayJagnayKayAzkaar1\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_main.xml.flat",
+        "source": "C:\\Users\\Zoha\\StudioProjects\\SonayJagnayKayAzkaar1\\app\\src\\main\\res\\layout\\fragment_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\Zoha\\StudioProjects\\SonayJagnayKayAzkaar1\\app\\build\\intermediates\\res\\merged\\debug\\raw_s7.mp3.flat",
+        "source": "C:\\Users\\Zoha\\StudioProjects\\SonayJagnayKayAzkaar1\\app\\src\\main\\res\\raw\\s7.mp3"
+    },
+    {
+        "merged": "C:\\Users\\Zoha\\StudioProjects\\SonayJagnayKayAzkaar1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_action_fav_unmarked_icon.png.flat",
+        "source": "C:\\Users\\Zoha\\StudioProjects\\SonayJagnayKayAzkaar1\\app\\src\\main\\res\\drawable-hdpi\\ic_action_fav_unmarked_icon.png"
+    },
+    {
+        "merged": "C:\\Users\\Zoha\\StudioProjects\\SonayJagnayKayAzkaar1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_action_list_icon.png.flat",
+        "source": "C:\\Users\\Zoha\\StudioProjects\\SonayJagnayKayAzkaar1\\app\\src\\main\\res\\drawable-mdpi\\ic_action_list_icon.png"
+    },
+    {
+        "merged": "C:\\Users\\Zoha\\StudioProjects\\SonayJagnayKayAzkaar1\\app\\build\\intermediates\\res\\merged\\debug\\raw_s26.mp3.flat",
+        "source": "C:\\Users\\Zoha\\StudioProjects\\SonayJagnayKayAzkaar1\\app\\src\\main\\res\\raw\\s26.mp3"
+    },
+    {
+        "merged": "C:\\Users\\Zoha\\StudioProjects\\SonayJagnayKayAzkaar1\\app\\build\\intermediates\\res\\merged\\debug\\drawable_fav_custom.xml.flat",
+        "source": "C:\\Users\\Zoha\\StudioProjects\\SonayJagnayKayAzkaar1\\app\\src\\main\\res\\drawable\\fav_custom.xml"
+    },
+    {
+        "merged": "C:\\Users\\Zoha\\StudioProjects\\SonayJagnayKayAzkaar1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_action_play_all_icon.png.flat",
+        "source": "C:\\Users\\Zoha\\StudioProjects\\SonayJagnayKayAzkaar1\\app\\src\\main\\res\\drawable-xhdpi\\ic_action_play_all_icon.png"
+    },
+    {
+        "merged": "C:\\Users\\Zoha\\StudioProjects\\SonayJagnayKayAzkaar1\\app\\build\\intermediates\\res\\merged\\debug\\layout_adapter_list_duas.xml.flat",
+        "source": "C:\\Users\\Zoha\\StudioProjects\\SonayJagnayKayAzkaar1\\app\\src\\main\\res\\layout\\adapter_list_duas.xml"
+    },
+    {
+        "merged": "C:\\Users\\Zoha\\StudioProjects\\SonayJagnayKayAzkaar1\\app\\build\\intermediates\\res\\merged\\debug\\raw_s13.mp3.flat",
+        "source": "C:\\Users\\Zoha\\StudioProjects\\SonayJagnayKayAzkaar1\\app\\src\\main\\res\\raw\\s13.mp3"
+    },
+    {
+        "merged": "C:\\Users\\Zoha\\StudioProjects\\SonayJagnayKayAzkaar1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_action_list_icon.png.flat",
+        "source": "C:\\Users\\Zoha\\StudioProjects\\SonayJagnayKayAzkaar1\\app\\src\\main\\res\\drawable-hdpi\\ic_action_list_icon.png"
+    },
+    {
+        "merged": "C:\\Users\\Zoha\\StudioProjects\\SonayJagnayKayAzkaar1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\Zoha\\StudioProjects\\SonayJagnayKayAzkaar1\\app\\src\\main\\res\\drawable-hdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\Zoha\\StudioProjects\\SonayJagnayKayAzkaar1\\app\\build\\intermediates\\res\\merged\\debug\\layout_notification_template_big_media.xml.flat",
+        "source": "C:\\Users\\Zoha\\.gradle\\caches\\transforms-1\\files-1.1\\support-media-compat-27.0.2.aar\\42048fb4c4e71094f13bc9c4ad25c8ef\\res\\layout\\notification_template_big_media.xml"
+    },
+    {
+        "merged": "C:\\Users\\Zoha\\StudioProjects\\SonayJagnayKayAzkaar1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_rep_off.png.flat",
+        "source": "C:\\Users\\Zoha\\StudioProjects\\SonayJagnayKayAzkaar1\\app\\src\\main\\res\\drawable-xhdpi\\ic_rep_off.png"
+    },
+    {
+        "merged": "C:\\Users\\Zoha\\StudioProjects\\SonayJagnayKayAzkaar1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_action_play_icon_w.png.flat",
+        "source": "C:\\Users\\Zoha\\StudioProjects\\SonayJagnayKayAzkaar1\\app\\src\\main\\res\\drawable-mdpi\\ic_action_play_icon_w.png"
+    },
+    {
+        "merged": "C:\\Users\\Zoha\\StudioProjects\\SonayJagnayKayAzkaar1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_notification_bg_low_normal.9.png.flat",
+        "source": "C:\\Users\\Zoha\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-27.0.2.aar\\2234c4e31641947c87ea0f5e59eac802\\res\\drawable-xhdpi-v4\\notification_bg_low_normal.9.png"
+    },
+    {
+        "merged": "C:\\Users\\Zoha\\StudioProjects\\SonayJagnayKayAzkaar1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_action_play_icon_w.png.flat",
+        "source": "C:\\Users\\Zoha\\StudioProjects\\SonayJagnayKayAzkaar1\\app\\src\\main\\res\\drawable-xhdpi\\ic_action_play_icon_w.png"
+    },
+    {
+        "merged": "C:\\Users\\Zoha\\StudioProjects\\SonayJagnayKayAzkaar1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_action_list_icon.png.flat",
+        "source": "C:\\Users\\Zoha\\StudioProjects\\SonayJagnayKayAzkaar1\\app\\src\\main\\res\\drawable-xhdpi\\ic_action_list_icon.png"
+    },
+    {
+        "merged": "C:\\Users\\Zoha\\StudioProjects\\SonayJagnayKayAzkaar1\\app\\build\\intermediates\\res\\merged\\debug\\raw_s4.mp3.flat",
+        "source": "C:\\Users\\Zoha\\StudioProjects\\SonayJagnayKayAzkaar1\\app\\src\\main\\res\\raw\\s4.mp3"
+    },
+    {
+        "merged": "C:\\Users\\Zoha\\StudioProjects\\SonayJagnayKayAzkaar1\\app\\build\\intermediates\\res\\merged\\debug\\font_arabtype.ttf.flat",
+        "source": "C:\\Users\\Zoha\\StudioProjects\\SonayJagnayKayAzkaar1\\app\\src\\main\\res\\font\\arabtype.ttf"
+    },
+    {
+        "merged": "C:\\Users\\Zoha\\StudioProjects\\SonayJagnayKayAzkaar1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_rep_on.png.flat",
+        "source": "C:\\Users\\Zoha\\StudioProjects\\SonayJagnayKayAzkaar1\\app\\src\\main\\res\\drawable-mdpi\\ic_rep_on.png"
+    },
+    {
+        "merged": "C:\\Users\\Zoha\\StudioProjects\\SonayJagnayKayAzkaar1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_action_fav_unmarked_icon.png.flat",
+        "source": "C:\\Users\\Zoha\\StudioProjects\\SonayJagnayKayAzkaar1\\app\\src\\main\\res\\drawable-xxhdpi\\ic_action_fav_unmarked_icon.png"
+    },
+    {
+        "merged": "C:\\Users\\Zoha\\StudioProjects\\SonayJagnayKayAzkaar1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_action_share_icon.png.flat",
+        "source": "C:\\Users\\Zoha\\StudioProjects\\SonayJagnayKayAzkaar1\\app\\src\\main\\res\\drawable-xxhdpi\\ic_action_share_icon.png"
+    },
+    {
+        "merged": "C:\\Users\\Zoha\\StudioProjects\\SonayJagnayKayAzkaar1\\app\\build\\intermediates\\res\\merged\\debug\\raw_d1.mp3.flat",
+        "source": "C:\\Users\\Zoha\\StudioProjects\\SonayJagnayKayAzkaar1\\app\\src\\main\\res\\raw\\d1.mp3"
+    },
+    {
+        "merged": "C:\\Users\\Zoha\\StudioProjects\\SonayJagnayKayAzkaar1\\app\\build\\intermediates\\res\\merged\\debug\\raw_d4.mp3.flat",
+        "source": "C:\\Users\\Zoha\\StudioProjects\\SonayJagnayKayAzkaar1\\app\\src\\main\\res\\raw\\d4.mp3"
+    },
+    {
+        "merged": "C:\\Users\\Zoha\\StudioProjects\\SonayJagnayKayAzkaar1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_rep_on.png.flat",
+        "source": "C:\\Users\\Zoha\\StudioProjects\\SonayJagnayKayAzkaar1\\app\\src\\main\\res\\drawable-xhdpi\\ic_rep_on.png"
+    },
+    {
+        "merged": "C:\\Users\\Zoha\\StudioProjects\\SonayJagnayKayAzkaar1\\app\\build\\intermediates\\res\\merged\\debug\\raw_s1.mp3.flat",
+        "source": "C:\\Users\\Zoha\\StudioProjects\\SonayJagnayKayAzkaar1\\app\\src\\main\\res\\raw\\s1.mp3"
+    }
+]

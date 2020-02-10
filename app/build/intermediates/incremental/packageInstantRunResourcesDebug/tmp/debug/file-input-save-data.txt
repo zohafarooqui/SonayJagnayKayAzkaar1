@@ -1,0 +1,11 @@
+#Internal package file, do not edit.
+#Sat Dec 29 18:16:03 SGT 2018
+1.base=C\:\\Users\\Zoha\\StudioProjects\\SonayJagnayKayAzkaar1\\app\\build\\intermediates\\merged_assets\\debug\\mergeDebugAssets\\out
+0.baseType=DIRECTORY
+1.baseType=DIRECTORY
+count=2
+1.set=ASSET
+0.path=fonts/arabtype.ttf
+0.set=ASSET
+0.base=C\:\\Users\\Zoha\\StudioProjects\\SonayJagnayKayAzkaar1\\app\\build\\intermediates\\merged_assets\\debug\\mergeDebugAssets\\out
+1.path=fonts/jameelnoorinastaleeq.ttf

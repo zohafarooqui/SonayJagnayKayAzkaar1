@@ -1,0 +1,472 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="d_duas_ara">
+        <item> اَلْحَمْدُ ِللهِ الَّذِیْ اَحْيَانَا بَعْدَ مَا اَمَاتَنَا وَاِلَيْهِ النُّشُوْرُ  </item>
+	<item>اَلْحَمْدُ ِللهِ الَّذِیْ عَافَانِیْ فِیْ جَسَدِیْ وَرَدَّ عَلَیَّ رُوْحِیْ وَاَذِنَ لِیْ بِذِكْرِهِ  </item>
+	<item>إِنَّ فى خَلقِ السَّمـٰوٰتِ وَالأَرضِ وَاختِلـٰفِ الَّيلِ وَالنَّهارِ لَـٔايـٰتٍ لِأُولِى الأَلبـٰبِ ۝ الَّذينَ يَذكُرونَ اللَّـهَ قِيـٰمًا وَقُعودًا وَعَلىٰ جُنوبِهِم وَيَتَفَكَّرونَ فى خَلقِ السَّمـٰوٰتِ وَالأَرضِ رَبَّنا ما خَلَقتَ هـٰذا بـٰطِلًا سُبحـٰنَكَ فَقِنا عَذابَ النّارِ ۝ رَبَّنا إِنَّكَ مَن تُدخِلِ النّارَ فَقَد أَخزَيتَهُ ۖ وَما لِلظّـٰلِمينَ مِن أَنصارٍ ۝ رَبَّنا إِنَّنا سَمِعنا مُنادِيًا يُنادى لِلإيمـٰنِ أَن ءامِنوا بِرَبِّكُم فَـٔامَنّا ۚ رَبَّنا فَاغفِر لَنا ذُنوبَنا وَكَفِّر عَنّا سَيِّـٔاتِنا وَتَوَفَّنا مَعَ الأَبرارِ ۝ رَبَّنا وَءاتِنا ما وَعَدتَنا عَلىٰ رُسُلِكَ وَلا تُخزِنا يَومَ القِيـٰمَةِ ۗ إِنَّكَ لا تُخلِفُ الميعادَ ۝ فَاستَجابَ لَهُم رَبُّهُم أَنّى لا أُضيعُ عَمَلَ عـٰمِلٍ مِنكُم مِن ذَكَرٍ أَو أُنثىٰ ۖ بَعضُكُم مِن بَعضٍ ۖ فَالَّذينَ هاجَروا وَأُخرِجوا مِن دِيـٰرِهِم وَأوذوا فى سَبيلى وَقـٰتَلوا وَقُتِلوا لَأُكَفِّرَنَّ عَنهُم سَيِّـٔاتِهِم وَلَأُدخِلَنَّهُم جَنّـٰتٍ تَجرى مِن تَحتِهَا الأَنهـٰرُ ثَوابًا مِن عِندِ اللَّـهِ ۗ وَاللَّـهُ عِندَهُ حُسنُ الثَّوابِ ۝ لا يَغُرَّنَّكَ تَقَلُّبُ الَّذينَ كَفَروا فِى البِلـٰدِ ۝ مَتـٰعٌ قَليلٌ ثُمَّ مَأوىٰهُم جَهَنَّمُ ۚ وَبِئسَ المِهادُ ۝ لـٰكِنِ الَّذينَ اتَّقَوا رَبَّهُم لَهُم جَنّـٰتٌ تَجرى مِن تَحتِهَا الأَنهـٰرُ خـٰلِدينَ فيها نُزُلًا مِن عِندِ اللَّـهِ ۗ وَما عِندَ اللَّـهِ خَيرٌ لِلأَبرارِ ۝ وَإِنَّ مِن أَهلِ الكِتـٰبِ لَمَن يُؤمِنُ بِاللَّـهِ وَما أُنزِلَ إِلَيكُم وَما أُنزِلَ إِلَيهِم خـٰشِعينَ لِلَّـهِ لا يَشتَرونَ بِـٔايـٰتِ اللَّـهِ ثَمَنًا قَليلًا ۗ أُولـٰئِكَ لَهُم أَجرُهُم عِندَ رَبِّهِم ۗ إِنَّ اللَّـهَ سَريعُ الحِسابِ ۝ يـٰأَيُّهَا الَّذينَ ءامَنُوا اصبِروا وَصابِروا وَرابِطوا وَاتَّقُوا اللَّـهَ لَعَلَّكُم تُفلِحونَ ۝</item>
+	<item>اَللّٰھُمَّ اجْعَلْ فِیْ قَلْبِیْ نُوْرًا وَّفِیْ بَصَرِیْ نُوْرًا وَّفِیْ سَمْعِیْ نُوْرًا وَّعَنْ یَّمِیْنِیْ نُوْرًا وَّعَنْ یَسَارِیْ نُوْرًا وَّفَوْقِیْ نُوْرًا وَّتَحْتِیْ نُوْرًا وَّاَمَامِیْ نُوْرًا وَّخَلْفِی نُوْرًا وَّاجْعَلْ لِّیْ نُوْرًا</item>
+	<item>بِسْمِ اللَّـهِ الرَّحْمَـٰنِ الرَّحِيمِ
+قُلْ أَعُوذُ بِرَبِّ الْفَلَقِ ۝ مِن شَرِّ مَا خَلَقَ ۝ وَمِن شَرِّ غَاسِقٍ إِذَا وَقَبَ ۝ وَمِن شَرِّ النَّفَّاثَاتِ فِي الْعُقَدِ ۝ وَمِن شَرِّ حَاسِدٍ إِذَا حَسَدَ ۝</item>
+	<item>بِسْمِ اللَّـهِ الرَّحْمَـٰنِ الرَّحِيمِ
+قُلْ أَعُوذُ بِرَبِّ النَّاسِ ۝ مَلِكِ النَّاسِ ۝ إِلَـٰهِ النَّاسِ ۝ مِن شَرِّ الْوَسْوَاسِ الْخَنَّاسِ ۝ الَّذِي يُوَسْوِسُ فِي صُدُورِ النَّاسِ ۝ مِنَ الْجِنَّةِ وَالنَّاسِ ۝</item>
+	<item>اَللهُ اَكْبَرُ (10x)   
+  اَلْحَمْدُلِله (10x)   
+ سُبْحَانَ اللهِ (10x)   
+  لَا اِلٰهَ اِلَّا اللهُ(10x)   
+  اَسْتَغْفِرُالله (10x)   
+اَللّٰھُمَّ اغْفِرْلِیْ وَاھْدِنِیْ وَارْزُقْنِیْ وَعَافِنِیْ</item>
+	<item>اَللّٰھُمَّ لَكَ الْحَمْدُ اَنْتَ قَیِّمُ السَّمٰوَاتِ وَالْاَرْضِ َومَنْ فِیْھِنَّ وَلَكَ الْحَمْدُ لَكَ مُلْكُ السَّمٰوَاتِ وَالْاَرْضِ َومَنْ فِیْھِنَّ وَلَكَ الْحَمْدُ اَنْتَ نُوْرُ السَّمٰوَاتِ وَالْاَرْضِ وَلَكَ الْحَمْدُ اَنْتَ مَلِكُ السَّمٰوَاتِ وَالْاَرْضِ َولَكَ الْحَمْدُ اَنْتَ الْحَقُّ وَوَعْدُكَ الْحَقُّ وَلِقَاؤُكَ حَقٌّ وَقَوْلُكَ حَقٌّ وَالْجَنَّةُ حَقٌّ وَالنَّارُ حَقٌّ وَالنَّبِیُّوْنَ حَقٌّ وَمُحَمَّدٌﷺ حَقٌّ وَالسَّاعَةُ حَقٌّ ۔ اَللّٰھُمَّ لَكَ اَسْلَمْتُ وَ ِبكَ آمَنْتُ وَعَلَیْكَ تَوَکَّلْتُ وَاِلَیْكَ اَنَبْتُ وَبِكَ خَاصَمْتُ وَاِلَیْكَ حَاكَمْتُ فَاغْفِرْلِیْ مَاقَدَّمْتُ وَمَا اَخَّرْتُ وَمَا اَسْرَرْتُ وَمَا اَعْلَنْتُ اَنْتَ الْمُقَدِّمُ وَاَنْتَ الْمُؤَخِّرُ لَآ اِلٰهَ اِلَّا اَنْتَ</item>
+
+    </string-array>
+    <string-array name="d_duas_eng">
+        <item>All praise is for Allaah who gave us life after having taken it from us and unto Him is the Resurrection.</item>
+
+<item>‘All praise is for Allaah who restored to me my health and returned my soul and has allowed me to remember Him.‘</item>
+
+<item>Indeed, in the creation of the heavens and the earth and the alternation of the night and the day are signs for those of understanding. Who remember Allah while standing or sitting or [lying] on their sides and give thought to the creation of the heavens and the earth, [saying], "Our Lord, You did not create this aimlessly; exalted are You [above such a thing]; then protect us from the punishment of the Fire. Our Lord, indeed whoever You admit to the Fire - You have disgraced him, and for the wrongdoers there are no helpers. Our Lord, indeed we have heard a caller calling to faith, [saying], 'Believe in your Lord,' and we have believed. Our Lord, so forgive us our sins and remove from us our misdeeds and cause us to die with the righteous. Our Lord, and grant us what You promised us through Your messengers and do not disgrace us on the Day of Resurrection. Indeed, You do not fail in [Your] promise." And their Lord responded to them, "Never will I allow to be lost the work of [any] worker among you, whether male or female; you are of one another. So those who emigrated or were evicted from their homes or were harmed in My cause or fought or were killed - I will surely remove from them their misdeeds, and I will surely admit them to gardens beneath which rivers flow as reward from Allah, and Allah has with Him the best reward." Be not deceived by the [uninhibited] movement of the disbelievers throughout the land. [It is but] a small enjoyment; then their [final] refuge is Hell, and wretched is the resting place. But those who feared their Lord will have gardens beneath which rivers flow, abiding eternally therein, as accommodation from Allah. And that which is with Allah is best for the righteous. And indeed, among the People of the Scripture are those who believe in Allah and what was revealed to you and what was revealed to them, [being] humbly submissive to Allah. They do not exchange the verses of Allah for a small price. Those will have their reward with their Lord. Indeed, Allah is swift in account. O you who have believed, persevere and endure and remain stationed and fear Allah that you may be successful.</item>
+
+<item>O Allah pour light in my heart, light in my eyes, light in my ears, light towards my right and my left, light above me and below me, light in front of me and behind me. O Allah make light for me.</item>
+
+<item>Say, "I seek refuge in the Lord of daybreak, From the evil of that which He created, And from the evil of darkness when it settles, And from the evil of the blowers in knots, And from the evil of an envier when he envies."</item>
+
+<item>Say, "I seek refuge in the Lord of mankind, The Sovereign of mankind. The God of mankind, From the evil of the retreating whisperer -Who whispers [evil] into the breasts of mankind -From among the jinn and mankind."</item>
+
+<item>Allah is the greatest (10x)
+All praises are for Allah (10x)
+Glorified is Allah (10x)
+There is no god but Allah (10x)
+O Allah forgive me (10x)
+O Allah forgive me, guide me, grant me provision and give me good health</item>
+<item> O Allah! All the praises are for you, You are the Holder of the Heavens and the Earth, And whatever is in them. All the praises are for You; You have the possession of the Heavens and the Earth And whatever is in them. All the praises are for You; You are the Light of the Heavens and the Earth And all the praises are for You; You are the King of the Heavens and the Earth; And all the praises are for You; You are the Truth and Your Promise is the truth, And to meet You is true, Your Word is the truth And Paradise is true And Hell is true And all the Prophets (Peace be upon them) are true; And Muhammad is true, And the Day of Resurrection is true. O Allah ! I surrender (my will) to You; I believe in You and depend on You. And repent to You, And with Your help I argue (with my opponents, the non-believers) And I take You as a judge (to judge between us). Please forgive me my previous And future sins; And whatever I concealed or revealed And You are the One who make (some people) forward And (some) backward. There is none to be worshipped but you</item>
+    </string-array>
+    <string-array name="d_duas_eng_titles">
+        <item>NONE</item>
+	<item>NONE</item>
+        <item>آلِ عمران  (200-190)</item>
+        <item>NONE</item>        
+<item>سورة الفلق</item>
+        <item>سورة الناس</item>
+        <item>Dua for Tahajjud</item>
+        <item>Opening Dua for Tahajjud</item>
+   </string-array>
+    <string-array name="d_duas_ref">
+        <item> ( صحیح البخاری : 6314)</item>
+	<item> (سنن الترمذی:3401)</item>
+	<item> ( صحیح البخاری :183)</item>
+	<item> ( صحیح البخاری :6316)</item>
+	<item> (سنن النسائی:5439)</item>
+	<item> (سنن النسائی:5439)</item>
+	<item>(سنن أبی داؤد:766 ) </item>
+	<item> ( صحیح البخاری : 1120)</item>
+    </string-array>
+    <string-array name="d_duas_urd">
+       <item>تمام تعریف الله کے لیے ہے جس نے ہمیں مرنے (سونے) کے بعد دوباره زندگی دی اوراسی کی طر ف لوٹ کر جانا ہے۔ </item>
+
+<item>سب تعریف  الله کے لیے ہے جس نے میرے جسم کو عافیت دی اور مجھ پر میری روح لوٹائی اور مجھے اپنے  ذکر کی توفیق دی۔</item>
+<item>بے شک آسمانوں اور زمین کی پیدائش اور رات اور دن کے بدل بدل کر آنے جانے میں عقل والوں کے لیے نشانیاں ہیں ۔ جو  الله کو کھڑے اور بیٹھے اور لیٹے (ہر حال میں)  یاد کرتے ہیں اور  آسمانوں اور زمین کی پیدائش پرغور کرتے ہیں (وہ کہتے ہیں) کہ اے ہمارے رب! تو نے انہیں بے مقصد پیدا نہیں کیا، تو پاک ہے پس(قیامت کے دن) ہمیں دوزخ کے عذاب سے بچا لینا۔ اے ہمارے رب! بے شک جسے تو نے آگ میں ڈالا پس اسے تو نے رسوا کیا اور ظالموں کے لیے کوئی مددگار نہیں ہوگا۔ اے ہمارے رب! ہم نے ایک پکارنے والے کو سنا کہ وہ ایمان کے لیے پکار رہا تھا (کہ آؤ) اپنے رب پر ایمان لاؤ تو ہم ایمان لے آئے، اے ہمارے رب!  ہمارے لیے ہمارے گناہ معاف فرما اور ہماری برائیوں کو ہم سے دور کردے اور ہمیں نیکوں کے ساتھ فوت کر۔ اے ہمار ے رب!  تو نے جن جن چیزوں کے ہم سے اپنے پیغمبروں کے ذریعے وعدے کئے ہیں وہ ہمیں عطا فرما اور قیامت کے دن ہمیں رسوا نہ کرنا۔(اس میں) کچھ شک نہیں کہ تو  وعدہ خلافی نہیں کرتا ۔ تو اُن کے رب نے اُن کی دعا قبول کر لی (اور فرمایا) کہ میں کسی عمل کرنے والے کے عمل کو، مرد ہو یا عورت، ضائع نہیں کرتا۔ تم ایک دوسرے کی جنس سے ہو۔ تو  جن لوگوں نے ہجرت کی  اور اپنے گھروں سے نکالے گئے اور میری راہ میں ستائے گئے اور لڑے اور قتل کئے گئے، میں ضرور اُن سے  ان کی برائیاں دُور کر دوں گا اور انہیں ایسی جنتوں میں داخل کروں گا جن کے نیچے سے نہریں بہہ رہی ہیں (یہ)  الله کے ہاں سے بدلہ ہے اور  الله کے ہاں اچھا بدلہ ہے ۔ (اے پیغمبر!) کافروں کا شہروں میں چلنا پھرنا تمہیں  ہرگز دھوکا نہ دے ۔ (یہ دنیا کا) تھوڑا سا فائدہ ہے پھر (آخرت میں) تو اُن کا ٹھکانہ دوزخ ہے اور وہ بُری جگہ ہے۔ لیکن جو لوگ اپنے رب سے ڈرتے رہے اُن کے لیے باغ ہیں جن کے نیچے سے نہریں بہہ رہی ہیں (اور وہ) اُن میں ہمیشہ رہیں گے (یہ)  الله کے ہاں (اُن کی) مہمانی ہے، اور جو کچھ  الله کے ہاں ہے وہ نیکی کرنے والوں کے لیے بہت اچھا ہے ۔ اور اہلِ کتاب میں سے بعض ایسے بھی ہیں جو  الله پر اور اُس (کتاب) پر جو تم پر نازل ہوئی اور اُس پر جو اُن پر نازل ہوئی ایمان رکھتے ہیں اور  الله کے آگے عاجزی کرتے ہیں اور  الله کی آیتوں کے بدلے کچھ قیمت نہیں لیتے، یہی لوگ ہیں جن کا صلہ اُن کے رب کے ہاں تیار ہے اور  الله تعالیٰ جلد حساب لینے والا ہے ۔ اے اہلِ ایمان! صبر کرو اور مقابلے میں جمے رہو اور مورچوں میں ڈٹے رہو اور  الله سے ڈرو تاکہ تم فلاح پاؤ۔</item>
+
+<item>اے ﷲ ! ڈال دے میرے دل میں نور ، میری آنکھوں میں نور ،میرے کانوں میں نور،میرے دائیں نور ، میرے بائیں نور ، میرے اوپر نور ، میرے نیچے نور ، میرے آگے نور ، میرے پیچھے نور اور بنا دے میرے لیے نور۔</item>
+
+<item>کہہ دیجئے! میں صبح کے رب کی پناہ چاہتا ہوں۔ ہر اس چیز کے شر سے جو اس نے پیدا کی ہے اور اندھیری رات کی تاریکی کے شر سے جب وہ پھیل جائے، اور گرہوں میں پھونکنے والیوں کے شر سے، اور حسد کرنے والے کے شر سے جب وہ حسد کرے۔</item>
+
+<item>کہہ دیجئے! میں لوگوں کے رب کی پناہ چاہتاہوں۔ لوگوں کے مالک کی۔ لوگوں کے معبود کی ۔وسوسہ ڈالنے والے، باربار پلٹ کر آنے والے کے شر سے۔ وہ جو لوگوں کے سینوں میں وسوسہ ڈالتا ہے۔ جنوں اور انسانوں میں سے۔ </item>
+
+<item>الله سب سے بڑا ہے (10 بار)
+ سب تعریف الله کے لیے ہے (10 بار)
+پاک ہے الله (10 بار)
+الله کے سوا کوئی معبود برحق نهیں (10 بار)
+الله مجھے بخش دے (10 بار)
+اے الله! مجھے بخش دے،مجھے هدایت دے، مجھے رزق عنایت فرما اور مجھے عافیت عطا فرما-</item>
+<item>اے الله ! ہر طرح کی تعریف تیرے ہی لیے ہے، تو آسمانوں اور زمین اور جو کچھ ان دونوں کے درمیان ہے، ان کاسنبھالنے والا ہے اور تیر ی ہی تعریف ہے، آسمانوں اور زمین اور ان کے درمیان کی تمام چیزوں پر حکومت تیرے ہی لیے ہے اور تیری ہی تعریف ہے، تو نور ہے آسمانوں اور زمین کا اور تیری ہی تعریف ہے، تو بادشاہ ہے آسمانوں اور زمین کا اور تیری ہی تعریف ہے، تو سچا ہے اور تیرا وعدہ سچا ہے اور تیری ملاقات برحق ہے اور تیری بات سچی ہے اور جنت بر حق ہے اور دوزخ برحق ہے اور تمام پیغمبر سچے ہیں اور محمد ۖ سچے ہیں اور قیامت برحق ہے۔ اے الله! میں تیرا فرمانبردار ہوں اور میں تجھ پر ایمان لایا ہوں اور میں نے تجھ پر بھروسا کیا ہے اور میں تیری ہی طرف رجوع کرتا ہوں اور تیری ہی مدد سے (مخالفین کے ساتھ) جھگڑتا ہوں اور تجھ ہی سے فیصلہ چاہتا ہوں تو میرے اگلے پچھلے، پوشیدہ و ظاہر گناہوں کو معاف فرما دے ، تو ہی آگے کرنے والا اور پیچھے رکھنے والا ہے ، کوئی معبود نہیں مگر تو ہی۔</item>
+
+    </string-array>
+    <string-array name="d_duas_urd_titles">
+        <item>NONE</item>
+	<item>NONE</item>
+        <item>آلِ عمران  (200-190)</item>
+        <item>NONE</item>        
+<item>سورة الفلق</item>
+        <item>سورة الناس</item>
+        <item>تہجد کی دعا</item>
+        <item>تہجد کی دعاے استفتاح</item>
+   </string-array>
+    <string-array name="s_duas_ara">
+        <item>اللَّـهُ لَا إِلَـٰهَ إِلَّا هُوَ الْحَيُّ الْقَيُّومُ ۚ لَا تَأْخُذُهُ سِنَةٌ وَلَا نَوْمٌ ۚ لَّهُ مَا فِي السَّمَاوَاتِ وَمَا فِي الْأَرْضِ ۗ مَن ذَا الَّذِي يَشْفَعُ عِندَهُ إِلَّا بِإِذْنِهِ ۚ يَعْلَمُ مَا بَيْنَ أَيْدِيهِمْ وَمَا خَلْفَهُمْ ۖ وَلَا يُحِيطُونَ بِشَيْءٍ مِّنْ عِلْمِهِ إِلَّا بِمَا شَاءَ ۚ وَسِعَ كُرْسِيُّهُ السَّمَاوَاتِ وَالْأَرْضَ ۖ وَلَا يَئُودُهُ حِفْظُهُمَا ۚ وَهُوَ الْعَلِيُّ الْعَظِيمُ </item>
+	<item>آمَنَ الرَّسُولُ بِمَا أُنزِلَ إِلَيْهِ مِن رَّبِّهِ وَالْمُؤْمِنُونَ ۚ كُلٌّ آمَنَ بِاللَّـهِ وَمَلَائِكَتِهِ وَكُتُبِهِ وَرُسُلِهِ لَا نُفَرِّقُ بَيْنَ أَحَدٍ مِّن رُّسُلِهِ ۚ وَقَالُوا سَمِعْنَا وَأَطَعْنَا ۖ غُفْرَانَكَ رَبَّنَا وَإِلَيْكَ الْمَصِيرُ ۝ لَا يُكَلِّفُ اللَّـهُ نَفْسًا إِلَّا وُسْعَهَا ۚ لَهَا مَا كَسَبَتْ وَعَلَيْهَا مَا اكْتَسَبَتْ ۗ رَبَّنَا لَا تُؤَاخِذْنَا إِن نَّسِينَا أَوْ أَخْطَأْنَا ۚ رَبَّنَا وَلَا تَحْمِلْ عَلَيْنَا إِصْرًا كَمَا حَمَلْتَهُ عَلَى الَّذِينَ مِن قَبْلِنَا ۚ رَبَّنَا وَلَا تُحَمِّلْنَا مَا لَا طَاقَةَ لَنَا بِهِ ۖ وَاعْفُ عَنَّا وَاغْفِرْ لَنَا وَارْحَمْنَا ۚ أَنتَ مَوْلَانَا فَانصُرْنَا عَلَى الْقَوْمِ الْكَافِرِينَ ۝</item>
+	<item>بِسْمِ اللَّـهِ الرَّحْمَـٰنِ الرَّحِيمِ 
+قُلْ يَا أَيُّهَا الْكَافِرُونَ ۝ لَا أَعْبُدُ مَا تَعْبُدُونَ ۝ وَلَا أَنتُمْ عَابِدُونَ مَا أَعْبُدُ ۝  وَلَا أَنَا عَابِدٌ مَّا عَبَدتُّمْ ۝ وَلَا أَنتُمْ عَابِدُونَ مَا أَعْبُدُ ۝ لَكُمْ دِينُكُمْ وَلِيَ دِينِ ۝</item>
+	<item>بِسْمِ اللَّـهِ الرَّحْمَـٰنِ الرَّحِيمِ
+قُلْ هُوَ اللَّـهُ أَحَدٌ ۝ اللَّـهُ الصَّمَدُ ۝ لَمْ يَلِدْ وَلَمْ يُولَدْ ۝ وَلَمْ يَكُن لَّهُ كُفُوًا أَحَدٌ ۝</item>
+	<item>بِسْمِ اللَّـهِ الرَّحْمَـٰنِ الرَّحِيمِ
+قُلْ أَعُوذُ بِرَبِّ الْفَلَقِ ۝  مِن شَرِّ مَا خَلَقَ ۝  وَمِن شَرِّ غَاسِقٍ إِذَا وَقَبَ ۝  وَمِن شَرِّ النَّفَّاثَاتِ فِي الْعُقَدِ ۝  وَمِن شَرِّ حَاسِدٍ إِذَا حَسَدَ ۝</item>
+	<item>بِسْمِ اللَّـهِ الرَّحْمَـٰنِ الرَّحِيمِ
+قُلْ أَعُوذُ بِرَبِّ النَّاسِ ۝ مَلِكِ النَّاسِ ۝  إِلَـٰهِ النَّاسِ ۝ مِن شَرِّ الْوَسْوَاسِ الْخَنَّاسِ ۝ الَّذِي يُوَسْوِسُ فِي صُدُورِ النَّاسِ ۝ مِنَ الْجِنَّةِ وَالنَّاسِ ۝</item>
+	<item>سُبْحَانَ اللَّـهِ (33x) 
+ اَلْحَمْدُ للهِ(33x) 
+ اللهُ اَكْبَرُ  (34x) </item>
+	<item>بِاسْمِكَ رَبِّیْ وَضَعْتُ جَنْبِیْ وَبِكَ اَرْفَعُهُ،اِنْ اَمْسَكْتَ نَفْسِیْ فَاغْفِرْلَھَا وَاِنْ اَرْسَلْتَھَا فَاحْفَظْھَا بِمَا تَحْفَظُ بِه عِبَادَكَ الصَّالِحِيْنَ</item>
+	<item>اَلْحَمْدُ للهِ الَّذِیْ اَطْعَمَنَا وَسَقَانَا وَكَفَانَا وَآوَانَا فَكَمْ مِّمَّنْ لَّا كَافِیَ لَهُ وَلَا مُؤْوِیَ </item>
+	<item>اَللّٰھُمَّ اغْفِرْلِیْ ذَنْبِیْ وَاخْسَأْ شَیْطَانِیْ وَفُکَّ رِھَانِیْ وَثَقِّلْ مِیْزَانِیْ وَاجْعَلْنِیْ فِی النَّدِیِّ الْاَعْلٰی</item>
+	<item> اَللّٰھُمَّ اَسْلَمْتُ نَفْسِیْ اِلَیْكَ وَفَوَّضْتُ اَمْرِیْ اِلَیْكَ وَ وَجَّھْتُ وَجْھِیْ اِلَیْكَ وَاَلْجَاْتُ ظَھْرِیْ اِلَیْكَ رَغْبَةً وَرَھْبَةً اِلَیْكَ لَامَلْجَأَ وَلَا مَنْجَا مِنْكَ اِلَّا اِلَیْكَ آمَنْتُ بِكِتَابِكَ الَّذِیْ اَنْزَلْتَ وَنَبِیِّكَ الَّذِیْ اَرْسَلْتَ</item>
+	<item>اَلْحَمْدُ للهِ الَّذِیْ كَفَانِیْ وَ آوَانِیْ ،اَلْحَمْدُ للهِ الَّذِی أَطْعَمَنِیْ وَ سَقَانِیْ اَلْحَمْدُ للهِ الَّذِیْ مَنَّ عَلَیَّ فَاَفْضَلَ، اللهُمَّ اِنِّیْ أَسْأَلُكَ بِعِزَّتِكَ أَنْ تُنَجِّیَنِیْ مِنَ النَّارِ</item>
+	<item>اَلْحَمْدُ للهِ الَّذِْیْ كَفَانِیْ وَآوَانِیْ وَاَطْعَمَنِیْ وَسَقَانِیْ وَالَّذِْی مَنَّ عَلَيَّ فَاَفْضَلَ وَالَّذِْی اَعْطَانِي فَاَجْزَلَ، اَلْحَمْدُ للهِ عَلٰی كُلِّ حَالٍ، اَللّٰھُمَّ رَبَّ كُلِّ شَْئٍ وَّمَلِيْكَهُ وَاِلٰهَ كُلِّ شَْئٍ اَعُوْذُبِكَ مِنَ النَّارِ</item>
+	<item>اللهُمَّ عَالِمَ الْغَیْبِ وَالشَّهَادَةِ فَاطِرَالسَّمَاوَاتِ وَالْاَرْضِ رَبَّ كُلِّ شَیْئٍ  وَمَلِیْكَهُ أَشْهَدُ أَنْ لَّا اِلٰهَ اِلَّا أَنْتَ أَعُوْذُ بِكَ مِنْ شَرِّ نَفْسِیْ وَشَرِّ الشَّیْطَانِ وَشِرْكِهِ </item>
+	<item>لَا اِلٰهَ اِلَّا اللهُ، وَحْدَهُ لَا شَرِیْكَ لَهُ، لَهُ الْمُلْكُ، وَلَهُ الْحَمْدُ، وَهُوَ عَلٰی كُلِّ شَیْئٍ قَدِیْر، لَا حَوْلَ وَلَا قُوَّةَ اِلَّا بِاللهِ، سُبْحَانَ اللَّـهِ، وَالْحَمْدُ للهِ، وَلَا اِلٰهَ اِلَّا  اللهُ، وَ اللهُ أَكْبَرُ</item>
+	<item>اَللّٰھُمَّ بِاسْمِكَ اَمُوْتُ وَاَحْیَا</item>
+	<item>اَللّٰھُمَّ قِنِیْ عَذَابَكَ یَوْمَ تَبْعَثُ عِبَادَكَ (3x)</item>
+	<item>اَللّٰھُمَّ رَبَّ السَّمٰوَاتِ وَرَبَّ الْاَرْضِ وَرَبَّ الْعَرْشِ الْعَظِيْمِ،رَبَّنَا وَرَبَّ كُلِّ شَیْئٍ فَالِقَ الْحَبِّ وَالنَّوٰی وَمُنْزِلَ التَّوْرٰةِ وَالْاِنْجِیْلِ وَالْفُرْقَانِ، اَعُوْذُبِكَ مِنْ شَرِّ كُلِّ شَیْئٍ اَنْتَ آخِذ بِنَاصِيَتِهِ، اَللّٰھُمَّ اَنْتَ الْاَوَّلُ فَلَیْسَ قَبْلَكَ شَیْئ وَاَنْتَ الْآخِرُ فَلَیْسَ بَعْدَكَ شَیْئ وَاَنْتَ الظَّاھِرُ فَلَیْسَ فَوْقَكَ شَیْئ وَاَنْتَ الْبَاطِنُ فَلَیْسَ دُوْنَكَ شَیْئ، اِقْضِ عَنَّا الدَّیْنَ وَاَغْنِنَا مِنَ الْفَقْرِ </item>
+	<item>اَللّٰھُمَّ خَلَقْتَ نَفْسِیْ واَنْتَ تَوَفَّاھَا،لَكَ مَمَاتُھَا وَمَحْیَاھَا، اِنْ اَحْیَیْتَھَا فَاحْفَظْھَا وَاِنْ اَمَتَّھَا فَاغْفِرْلَھَا، اَللّٰھُمَّ اِنِّیْ اَسْأَ لُكَ الْعَافِیَةَ </item>
+	<item>سُبْحَانَ اللَّـهِ، سُبْحَانَ اللَّـهِ، سُبْحَانَ رَبِّیْ</item>
+	<item>لَا اِلٰهَ اِلَّا  اللهُ الْوَاحِدُ الْقَهَّارُ رَبُّ السَّمٰوَاتِ وَالْاَرْضِ وَمَا بَیْنَهُمَا الْعَزِیْزُ الْغَفَّارُ</item>
+	<item> سُبْحَانَ اللَّـهِ رَبِّ الْعَالَمِیْنَ, سُبْحَانَ اللَّـهِ وَبِحَمْدِهِ</item>
+	<item>لَااِلٰهََ اِلَّا اللهُ وَحْدَهُ لَا شَرِيْكَ لَهُ،لَهُ الْمُلْكُ وَلَهُ الْحَمْدُ وَھُوَ عَلٰی كُلِّ شَْئٍ قَدِيْر، اَلْحَمْدُ للهِ وَسُبْحَانَ اللَّـهِ وَلَا اِلٰهَ اِلَّا اللهُ وَ اللهُ اَكْبَرُ وَلَاحَوْلَ وَلَا قُوَّةَ اِلَّا بِاللهِ, اَللّٰھُمَّ اغْفِرْ لِیْ </item>
+	<item>اَعُوْذُ بِاللَّـهِ مِنْ شَرِّ الشَّيْطَانِ وَ شَرِّھَا</item>
+	<item>اَعُوْذُ بِكَلِمَاتِ اللَّـهِ التَّامَّاتِ مِنْ غَضَبِهِ وَ عِقَابِهِ وَ شَرِّ عِبَادِهِ وَ مِنْ ھَمَزَاتِ الشَّیَاطِیْنِ وَاَنْ یَّحْضُرُوْنِ</item>
+	<item>اَعُوْذُ بِكَلِمَاتِ اللَّـهِ التَّامَّاتِ الَّتِیْ لَا یُجَاوِزُ ھُنَّ بَرٌّ وَّ لَا فَاجِر مِّنْ شَرِّ مَا يَنْزِلُ مِنَ السَّمَاءِ وَمَا یَعْرُجُ فِیْھَا وَمِنْ شَرِّ فِتَنِ اللَّیْلِ وَالنَّهَارِ وَمِنْ كُلِّ طَارِقٍ اِلَّا طَارِقًا یَّطْرُقُ بِخَیْرٍ یَّا رَحْمَانُ</item>
+	<item>سُبْحَانَ اللَّـهِ وَ الْحََمْدُ للهِ وَلَا اِلٰهَ اِلَّا اللهُ وَ اللهُ اَكْبَرُ</item>
+	<item>بِسْمِ اللَّـهِ الرَّحْمَـٰنِ الرَّحِيمِ
+ تَبَارَكَ الَّذِي بِيَدِهِ الْمُلْكُ وَهُوَ عَلَىٰ كُلِّ شَيْءٍ قَدِيرٌ ﴿١﴾ الَّذِي خَلَقَ الْمَوْتَ وَالْحَيَاةَ لِيَبْلُوَكُمْ أَيُّكُمْ أَحْسَنُ عَمَلًا ۚ وَهُوَ الْعَزِيزُ الْغَفُورُ ﴿٢﴾ الَّذِي خَلَقَ سَبْعَ سَمَاوَاتٍ طِبَاقًا ۖ مَّا تَرَىٰ فِي خَلْقِ الرَّحْمَـٰنِ مِن تَفَاوُتٍ ۖ فَارْجِعِ الْبَصَرَ هَلْ تَرَىٰ مِن فُطُورٍ ﴿٣﴾ ثُمَّ ارْجِعِ الْبَصَرَ كَرَّتَيْنِ يَنقَلِبْ إِلَيْكَ الْبَصَرُ خَاسِئًا وَهُوَ حَسِيرٌ ﴿٤﴾ وَلَقَدْ زَيَّنَّا السَّمَاءَ الدُّنْيَا بِمَصَابِيحَ وَجَعَلْنَاهَا رُجُومًا لِّلشَّيَاطِينِ ۖ وَأَعْتَدْنَا لَهُمْ عَذَابَ السَّعِيرِ ﴿٥﴾ وَلِلَّذِينَ كَفَرُوا بِرَبِّهِمْ عَذَابُ جَهَنَّمَ ۖ وَبِئْسَ الْمَصِيرُ ﴿٦﴾ إِذَا أُلْقُوا فِيهَا سَمِعُوا لَهَا شَهِيقًا وَهِيَ تَفُورُ ﴿٧﴾ تَكَادُ تَمَيَّزُ مِنَ الْغَيْظِ ۖ كُلَّمَا أُلْقِيَ فِيهَا فَوْجٌ سَأَلَهُمْ خَزَنَتُهَا أَلَمْ يَأْتِكُمْ نَذِيرٌ ﴿٨﴾ قَالُوا بَلَىٰ قَدْ جَاءَنَا نَذِيرٌ فَكَذَّبْنَا وَقُلْنَا مَا نَزَّلَ اللَّـهُ مِن شَيْءٍ إِنْ أَنتُمْ إِلَّا فِي ضَلَالٍ كَبِيرٍ ﴿٩﴾ وَقَالُوا لَوْ كُنَّا نَسْمَعُ أَوْ نَعْقِلُ مَا كُنَّا فِي أَصْحَابِ السَّعِيرِ ﴿١٠﴾ فَاعْتَرَفُوا بِذَنبِهِمْ فَسُحْقًا لِّأَصْحَابِ السَّعِيرِ ﴿١١﴾ إِنَّ الَّذِينَ يَخْشَوْنَ رَبَّهُم بِالْغَيْبِ لَهُم مَّغْفِرَةٌ وَأَجْرٌ كَبِيرٌ ﴿١٢﴾وَأَسِرُّوا قَوْلَكُمْ أَوِ اجْهَرُوا بِهِ ۖ إِنَّهُ عَلِيمٌ بِذَاتِ الصُّدُورِ ﴿١٣﴾ أَلَا يَعْلَمُ مَنْ خَلَقَ وَهُوَ اللَّطِيفُ الْخَبِيرُ ﴿١٤﴾ هُوَ الَّذِي جَعَلَ لَكُمُ الْأَرْضَ ذَلُولًا فَامْشُوا فِي مَنَاكِبِهَا وَكُلُوا مِن رِّزْقِهِ ۖ وَإِلَيْهِ النُّشُورُ ﴿١٥﴾ أَأَمِنتُم مَّن فِي السَّمَاءِ أَن يَخْسِفَ بِكُمُ الْأَرْضَ فَإِذَا هِيَ تَمُورُ ﴿١٦﴾ أَمْ أَمِنتُم مَّن فِي السَّمَاءِ أَن يُرْسِلَ عَلَيْكُمْ حَاصِبًا ۖ فَسَتَعْلَمُونَ كَيْفَ نَذِيرِ ﴿١٧﴾ وَلَقَدْ كَذَّبَ الَّذِينَ مِن قَبْلِهِمْ فَكَيْفَ كَانَ نَكِيرِ ﴿١٨﴾ أَوَلَمْ يَرَوْا إِلَى الطَّيْرِ فَوْقَهُمْ صَافَّاتٍ وَيَقْبِضْنَ ۚ مَا يُمْسِكُهُنَّ إِلَّا الرَّحْمَـٰنُ ۚ إِنَّهُ بِكُلِّ شَيْءٍ بَصِيرٌ ﴿١٩﴾ أَمَّنْ هَـٰذَا الَّذِي هُوَ جُندٌ لَّكُمْ يَنصُرُكُم مِّن دُونِ الرَّحْمَـٰنِ ۚ إِنِ الْكَافِرُونَ إِلَّا فِي غُرُورٍ ﴿٢٠﴾ أَمَّنْ هَـٰذَا الَّذِي يَرْزُقُكُمْ إِنْ أَمْسَكَ رِزْقَهُ ۚ بَل لَّجُّوا فِي عُتُوٍّ وَنُفُورٍ ﴿٢١﴾ أَفَمَن يَمْشِي مُكِبًّا عَلَىٰ وَجْهِهِ أَهْدَىٰ أَمَّن يَمْشِي سَوِيًّا عَلَىٰ صِرَاطٍ مُّسْتَقِيمٍ ﴿٢٢﴾ قُلْ هُوَ الَّذِي أَنشَأَكُمْ وَجَعَلَ لَكُمُ السَّمْعَ وَالْأَبْصَارَ وَالْأَفْئِدَةَ ۖ قَلِيلًا مَّا تَشْكُرُونَ ﴿٢٣﴾ قُلْ هُوَ الَّذِي ذَرَأَكُمْ فِي الْأَرْضِ وَإِلَيْهِ تُحْشَرُونَ ﴿٢٤﴾ وَيَقُولُونَ مَتَىٰ هَـٰذَا الْوَعْدُ إِن كُنتُمْ صَادِقِينَ ﴿٢٥﴾ قُلْ إِنَّمَا الْعِلْمُ عِندَ اللَّـهِ وَإِنَّمَا أَنَا نَذِيرٌ مُّبِينٌ ﴿٢٦﴾فَلَمَّا رَأَوْهُ زُلْفَةً سِيئَتْ وُجُوهُ الَّذِينَ كَفَرُوا وَقِيلَ هَـٰذَا الَّذِي كُنتُم بِهِ تَدَّعُونَ ﴿٢٧﴾ قُلْ أَرَأَيْتُمْ إِنْ أَهْلَكَنِيَ اللَّـهُ وَمَن مَّعِيَ أَوْ رَحِمَنَا فَمَن يُجِيرُ الْكَافِرِينَ مِنْ عَذَابٍ أَلِيمٍ ﴿٢٨﴾ قُلْ هُوَ الرَّحْمَـٰنُ آمَنَّا بِهِ وَعَلَيْهِ تَوَكَّلْنَا ۖ فَسَتَعْلَمُونَ مَنْ هُوَ فِي ضَلَالٍ مُّبِينٍ ﴿٢٩﴾ قُلْ أَرَأَيْتُمْ إِنْ أَصْبَحَ مَاؤُكُمْ غَوْرًا فَمَن يَأْتِيكُم بِمَاءٍ مَّعِينٍ ﴿٣٠﴾</item>
+	<item>بِسْمِ اللَّـهِ الرَّحْمَـٰنِ الرَّحِيمِ
+ الم ﴿١﴾ تَنزِيلُ الْكِتَابِ لَا رَيْبَ فِيهِ مِن رَّبِّ الْعَالَمِينَ ﴿٢﴾ أَمْ يَقُولُونَ افْتَرَاهُ ۚ بَلْ هُوَ الْحَقُّ مِن رَّبِّكَ لِتُنذِرَ قَوْمًا مَّا أَتَاهُم مِّن نَّذِيرٍ مِّن قَبْلِكَ لَعَلَّهُمْ يَهْتَدُونَ ﴿٣﴾ اللَّـهُ الَّذِي خَلَقَ السَّمَاوَاتِ وَالْأَرْضَ وَمَا بَيْنَهُمَا فِي سِتَّةِ أَيَّامٍ ثُمَّ اسْتَوَىٰ عَلَى الْعَرْشِ ۖ مَا لَكُم مِّن دُونِهِ مِن وَلِيٍّ وَلَا شَفِيعٍ ۚ أَفَلَا تَتَذَكَّرُونَ ﴿٤﴾ يُدَبِّرُ الْأَمْرَ مِنَ السَّمَاءِ إِلَى الْأَرْضِ ثُمَّ يَعْرُجُ إِلَيْهِ فِي يَوْمٍ كَانَ مِقْدَارُهُ أَلْفَ سَنَةٍ مِّمَّا تَعُدُّونَ ﴿٥﴾ ذَٰلِكَ عَالِمُ الْغَيْبِ وَالشَّهَادَةِ الْعَزِيزُ الرَّحِيمُ ﴿٦﴾ الَّذِي أَحْسَنَ كُلَّ شَيْءٍ خَلَقَهُ ۖ وَبَدَأَ خَلْقَ الْإِنسَانِ مِن طِينٍ ﴿٧﴾ ثُمَّ جَعَلَ نَسْلَهُ مِن سُلَالَةٍ مِّن مَّاءٍ مَّهِينٍ ﴿٨﴾ ثُمَّ سَوَّاهُ وَنَفَخَ فِيهِ مِن رُّوحِهِ ۖ وَجَعَلَ لَكُمُ السَّمْعَ وَالْأَبْصَارَ وَالْأَفْئِدَةَ ۚ قَلِيلًا مَّا تَشْكُرُونَ ﴿٩﴾ وَقَالُوا أَإِذَا ضَلَلْنَا فِي الْأَرْضِ أَإِنَّا لَفِي خَلْقٍ جَدِيدٍ ۚ بَلْ هُم بِلِقَاءِ رَبِّهِمْ كَافِرُونَ ﴿١٠﴾ قُلْ يَتَوَفَّاكُم مَّلَكُ الْمَوْتِ الَّذِي وُكِّلَ بِكُمْ ثُمَّ إِلَىٰ رَبِّكُمْ تُرْجَعُونَ ﴿١١﴾وَلَوْ تَرَىٰ إِذِ الْمُجْرِمُونَ نَاكِسُو رُءُوسِهِمْ عِندَ رَبِّهِمْ رَبَّنَا أَبْصَرْنَا وَسَمِعْنَا فَارْجِعْنَا نَعْمَلْ صَالِحًا إِنَّا مُوقِنُونَ ﴿١٢﴾ وَلَوْ شِئْنَا لَآتَيْنَا كُلَّ نَفْسٍ هُدَاهَا وَلَـٰكِنْ حَقَّ الْقَوْلُ مِنِّي لَأَمْلَأَنَّ جَهَنَّمَ مِنَ الْجِنَّةِ وَالنَّاسِ أَجْمَعِينَ ﴿١٣﴾ فَذُوقُوا بِمَا نَسِيتُمْ لِقَاءَ يَوْمِكُمْ هَـٰذَا إِنَّا نَسِينَاكُمْ ۖ وَذُوقُوا عَذَابَ الْخُلْدِ بِمَا كُنتُمْ تَعْمَلُونَ ﴿١٤﴾ إِنَّمَا يُؤْمِنُ بِآيَاتِنَا الَّذِينَ إِذَا ذُكِّرُوا بِهَا خَرُّوا سُجَّدًا وَسَبَّحُوا بِحَمْدِ رَبِّهِمْ وَهُمْ لَا يَسْتَكْبِرُونَ ۩ ﴿١٥﴾ تَتَجَافَىٰ جُنُوبُهُمْ عَنِ الْمَضَاجِعِ يَدْعُونَ رَبَّهُمْ خَوْفًا وَطَمَعًا وَمِمَّا رَزَقْنَاهُمْ يُنفِقُونَ ﴿١٦﴾ فَلَا تَعْلَمُ نَفْسٌ مَّا أُخْفِيَ لَهُم مِّن قُرَّةِ أَعْيُنٍ جَزَاءً بِمَا كَانُوا يَعْمَلُونَ ﴿١٧﴾ أَفَمَن كَانَ مُؤْمِنًا كَمَن كَانَ فَاسِقًا ۚ لَّا يَسْتَوُونَ ﴿١٨﴾ أَمَّا الَّذِينَ آمَنُوا وَعَمِلُوا الصَّالِحَاتِ فَلَهُمْ جَنَّاتُ الْمَأْوَىٰ نُزُلًا بِمَا كَانُوا يَعْمَلُونَ ﴿١٩﴾ وَأَمَّا الَّذِينَ فَسَقُوا فَمَأْوَاهُمُ النَّارُ ۖ كُلَّمَا أَرَادُوا أَن يَخْرُجُوا مِنْهَا أُعِيدُوا فِيهَا وَقِيلَ لَهُمْ ذُوقُوا عَذَابَ النَّارِ الَّذِي كُنتُم بِهِ تُكَذِّبُونَ ﴿٢٠﴾وَلَنُذِيقَنَّهُم مِّنَ الْعَذَابِ الْأَدْنَىٰ دُونَ الْعَذَابِ الْأَكْبَرِ لَعَلَّهُمْ يَرْجِعُونَ ﴿٢١﴾ وَمَنْ أَظْلَمُ مِمَّن ذُكِّرَ بِآيَاتِ رَبِّهِ ثُمَّ أَعْرَضَ عَنْهَا ۚ إِنَّا مِنَ الْمُجْرِمِينَ مُنتَقِمُونَ ﴿٢٢﴾ وَلَقَدْ آتَيْنَا مُوسَى الْكِتَابَ فَلَا تَكُن فِي مِرْيَةٍ مِّن لِّقَائِهِ ۖ وَجَعَلْنَاهُ هُدًى لِّبَنِي إِسْرَائِيلَ ﴿٢٣﴾ وَجَعَلْنَا مِنْهُمْ أَئِمَّةً يَهْدُونَ بِأَمْرِنَا لَمَّا صَبَرُوا ۖ وَكَانُوا بِآيَاتِنَا يُوقِنُونَ ﴿٢٤﴾ إِنَّ رَبَّكَ هُوَ يَفْصِلُ بَيْنَهُمْ يَوْمَ الْقِيَامَةِ فِيمَا كَانُوا فِيهِ يَخْتَلِفُونَ ﴿٢٥﴾ أَوَلَمْ يَهْدِ لَهُمْ كَمْ أَهْلَكْنَا مِن قَبْلِهِم مِّنَ الْقُرُونِ يَمْشُونَ فِي مَسَاكِنِهِمْ ۚ إِنَّ فِي ذَٰلِكَ لَآيَاتٍ ۖ أَفَلَا يَسْمَعُونَ ﴿٢٦﴾ أَوَلَمْ يَرَوْا أَنَّا نَسُوقُ الْمَاءَ إِلَى الْأَرْضِ الْجُرُزِ فَنُخْرِجُ بِهِ زَرْعًا تَأْكُلُ مِنْهُ أَنْعَامُهُمْ وَأَنفُسُهُمْ ۖ أَفَلَا يُبْصِرُونَ ﴿٢٧﴾ وَيَقُولُونَ مَتَىٰ هَـٰذَا الْفَتْحُ إِن كُنتُمْ صَادِقِينَ ﴿٢٨﴾ قُلْ يَوْمَ الْفَتْحِ لَا يَنفَعُ الَّذِينَ كَفَرُوا إِيمَانُهُمْ وَلَا هُمْ يُنظَرُونَ ﴿٢٩﴾ فَأَعْرِضْ عَنْهُمْ وَانتَظِرْ إِنَّهُم مُّنتَظِرُونَ ﴿٣٠﴾</item>
+	<item>سورة ال, سورة بني اسرائيل</item>
+    </string-array>
+    <string-array name="s_duas_eng">
+<item>Allah - there is no deity except Him, the Ever-Living, the Sustainer of [all] existence. Neither drowsiness overtakes Him nor sleep. To Him belongs whatever is in the heavens and whatever is on the earth. Who is it that can intercede with Him except by His permission? He knows what is [presently] before them and what will be after them, and they encompass not a thing of His knowledge except for what He wills. His Kursi extends over the heavens and the earth, and their preservation tires Him not. And He is the Most High, the Most Great.</item>
+
+<item>The Messenger has believed in what was revealed to him from his Lord, and [so have] the believers. All of them have believed in Allah and His angels and His books and His messengers, [saying], "We make no distinction between any of His messengers." And they say, "We hear and we obey. [We seek] Your forgiveness, our Lord, and to You is the [final] destination."</item>
+<item>Say, "O disbelievers, I do not worship what you worship. Nor are you worshippers of what I worship. Nor will I be a worshipper of what you worship. Nor will you be worshippers of what I worship. For you is your religion, and for me is my religion."</item>
+<item>Say, "He is Allah, [who is] One, Allah, the Eternal Refuge. He neither begets nor is born, Nor is there to Him any equivalent."</item>
+
+<item>Say, "I seek refuge in the Lord of day break, From the evil of that which He created, And from the evil of darkness when it settles, And from the evil of the blowers in knots, And from the evil of an envier when he envies."</item>
+<item>Say, "I seek refuge in the Lord of mankind, The Sovereign of mankind. The God of mankind, From the evil of the retreating whisperer -Who whispers [evil] into the breasts of mankind -From among the jinn and mankind."</item>
+
+<item>Glorified is Allah (33 Times)
+All praises are for Allah (33 Times)
+Allah is the greatest (33 Times)</item>
+	
+<item>In Your name my Lord, I lie down and I in Your name I rise, so if You should take my soul then have mercy upon it, and if You should return my soul then protect it in the manner You do so with Your righteous servants’</item>
+
+<item>All praise is for Allah, Who fed us and gave us drink, and Who is sufficient for us and has sheltered us, for how many have none to suffice them or shelter them.</item>
+
+<item>O Allah forgive me, drive away my Satan, free my soul (from the Hell-Fire), make my scales heavy and place me in the highest assembly (i.e. the angels).</item>
+<item>O Allah, I submit my soul unto You, and I entrust my affair unto You, and I turn my face towards You, and I totally rely on You, in hope and fear of You. Verily there is no refuge nor safe haven from You except with You. I believe in Your Book which You have revealed and in Your Prophet whom You have sent.</item>
+<item>All praise is for Allah who is sufficient for me and sheltered me. All praise is for Allah who fed me and gave me drink. All praise is for Allah who has bestowed me a great favor. By your grace (honor) I ask you to protect me from the Hell fire.</item>
+<item>All praise is for Allah who is sufficient for me and sheltered me, fed me and gave me drink. And He who has bestowed me a great favor and who has blessed me with the best. All praise and thanks are only for Allah in all circumstances. O Allah! The Lord of everything and their Master. O God of everything I ask You of Your protection from the Hell fire.</item>
+
+<item>O Allah, Knower of the seen and the unseen, Creator of the heavens and the earth, Lord and Sovereign of all things I bear witness that none has the right to be worshipped except You. I take refuge in You from the evil of my soul and from the evil and shirk of the devil.</item>
+
+<item>There is no true god except Allah. He is One and He has no partner with Him. His is the sovereignty and His is the praise, and He is powerful over everything. Glory be to Allah and all praise is for Him and there is no one worth worshipping other than Allah, and He is Greater than any description.</item>
+
+<item>Oh Allah, in Your Name I die and live.</item>
+<item>Oh Allah, save me from your punishment the Day You will raise your slaves.</item>
+
+<item>O Allaah, Lord of the seven heavens and the exalted Throne, our Lord and Lord of all things, splitter of the seed and the date-stone, Revealer of the Tawraat and the Injeel and the Furqaan [Qur’aan], I seek refuge in You from the evil of all things You shall seize by the forelock [have total mastery over]. O Allaah, You are the First so there is nothing before You, and You are the Last so there is nothing after You. You are al-Zaahir [the greatest and highest] so there is nothing above You, and You are al-Baatin [aware of the subtlest secrets] so there is nothing closer than You. Settle our debt for us and spare us from poverty.”</item>
+
+<item>O Allah, verily You have created my soul and You shall take its life, to You belongs its life and death. If You should keep my soul alive then protect it, and if You should take its life then forgive it. O Allah, I ask You to grant me good health.</item>
+	
+<item>Glorious is Allah, Glorious is Allah, my Lord.</item>
+<item>There is no deity but Allah, the One, the Victorious, Lord of the heavens and the earth and all that is between them, the All-Mighty, the All-Forgiving.</item>
+<item>Glorious is Allah, Glorious is Allah, Lord of the worlds, Glorious is Allah and All praise is for Him.</item>
+
+<item>There is no true god except Allah. He is One and He has no partner with Him;His is the sovereignty and His is the praise,and He is powerful over everything. All praise is for Allah.  Glory be to Allah. All praise be to Allah. There is none worthy of worship besides Allah and Allah is the Greatest. There is no power and might except from Allah, the Most High, the Great.O Allah forgive me!</item>
+
+<item>I seek refuge in Allah from Shaitan and its evil</item>
+
+<item>I seek refuge in the Perfect Word of Allah from His anger and His punishment, from the evil of His slaves and from the taunts of jinn and from their presence.</item>
+
+<item>I seek refuge in the complete, perfect words of Allah which neither the righteous nor the sinful person can exceed, from the evil that descends from the sky and the evil of what ascends in it, and from the trials of the night and the day and from the visitations of the night and the day except for the one that knocks with good, O Merciful One!</item>
+
+<item>Glorified is Allah, All praise is for Him, He is the Greatest, There is no true God except Allah</item>
+
+<item>حيمBlessed is He in whose hand is dominion, and He is over all things competent - (1) [He] who created death and life to test you [as to] which of you is best in deed - and He is the Exalted in Might, the Forgiving - (2) [And] who created seven heavens in layers. You do not see in the creation of the Most Merciful any inconsistency. So return [your] vision [to the sky]; do you see any breaks? (3) Then return [your] vision twice again. [Your] vision will return to you humbled while it is fatigued. (4) And We have certainly beautified the nearest heaven with stars and have made [from] them what is thrown at the devils and have prepared for them the punishment of the Blaze. (5) And for those who disbelieved in their Lord is the punishment of Hell, and wretched is the destination. (6) When they are thrown into it, they hear from it a [dreadful] inhaling while it boils up. (7) It almost bursts with rage. Every time a company is thrown into it, its keepers ask them, "Did there not come to you a warner?" (8) They will say," Yes, a warner had come to us, but we denied and said, 'Allah has not sent down anything. You are not but in great error.'" (9) And they will say, "If only we had been listening or reasoning, we would not be among the companions of the Blaze." (10) And they will admit their sin, so [it is] alienation for the companions of the Blaze. (11) Indeed, those who fear their Lord unseen will have forgiveness and great reward. (12)And conceal your speech or publicize it; indeed, He is Knowing of that within the breasts. (13) Does He who created not know, while He is the Subtle, the Acquainted? (14) It is He who made the earth tame for you - so walk among its slopes and eat of His provision - and to Him is the resurrection. (15) Do you feel secure that He who [holds authority] in the heaven would not cause the earth to swallow you and suddenly it would sway? (16) Or do you feel secure that He who [holds authority] in the heaven would not send against you a storm of stones? Then you would know how [severe] was My warning. (17) And already had those before them denied, and how [terrible] was My reproach. (18) Do they not see the birds above them with wings outspread and [sometimes] folded in? None holds them [aloft] except the Most Merciful. Indeed He is, of all things, Seeing. (19) Or who is it that could be an army for you to aid you other than the Most Merciful? The disbelievers are not but in delusion. (20) Or who is it that could provide for you if He withheld His provision? But they have persisted in insolence and aversion. (21) Then is one who walks fallen on his face better guided or one who walks erect on a straight path? (22) Say, "It is He who has produced you and made for you hearing and vision and hearts; little are you grateful." (23) Say, "It is He who has multiplied you throughout the earth, and to Him you will be gathered." (24) And they say, "When is this promise, if you should be truthful?" (25) Say, "The knowledge is only with Allah, and I am only a clear warner." (26)But when they see it approaching, the faces of those who disbelieve will be distressed, and it will be said, "This is that for which you used to call." (27) Say, [O Muhammad], "Have you considered: whether Allah should cause my death and those with me or have mercy upon us, who can protect the disbelievers from a painful punishment?" (28) Say, "He is the Most Merciful; we have believed in Him, and upon Him we have relied. And you will [come to] know who it is that is in clear error." (29) Say, "Have you considered: if your water was to become sunken [into the earth], then who could bring you flowing water?" (30)</item>
+
+<item>بسم الله الرحمن الرحيمAlif, Lam, Meem. (1) [This is] the revelation of the Book about which there is no doubt from the Lord of the worlds. (2) Or do they say, "He invented it"? Rather, it is the truth from your Lord, [O Muhammad], that you may warn a people to whom no warner has come before you [so] perhaps they will be guided. (3) It is Allah who created the heavens and the earth and whatever is between them in six days; then He established Himself above the Throne. You have not besides Him any protector or any intercessor; so will you not be reminded? (4) He arranges [each] matter from the heaven to the earth; then it will ascend to Him in a Day, the extent of which is a thousand years of those which you count. (5) That is the Knower of the unseen and the witnessed, the Exalted in Might, the Merciful, (6) Who perfected everything which He created and began the creation of man from clay. (7) Then He made his posterity out of the extract of a liquid disdained. (8) Then He proportioned him and breathed into him from His [created] soul and made for you hearing and vision and hearts; little are you grateful. (9) And they say, "When we are lost within the earth, will we indeed be [recreated] in a new creation?" Rather, they are, in [the matter of] the meeting with their Lord, disbelievers. (10) Say, "The angel of death will take you who has been entrusted with you. Then to your Lord you will be returned." (11) If you could but see when the criminals are hanging their heads before their Lord, [saying], "Our Lord, we have seen and heard, so return us [to the world]; we will work righteousness. Indeed, we are [now] certain." (12) And if We had willed, We could have given every soul its guidance, but the word from Me will come into effect [that] "I will surely fill Hell with jinn and people all together. (13) So taste [punishment] because you forgot the meeting of this, your Day; indeed, We have [accordingly] forgotten you. And taste the punishment of eternity for what you used to do." (14) Only those believe in Our verses who, when they are reminded by them, fall down in prostration and exalt [Allah] with praise of their Lord, and they are not arrogant. (15) They arise from [their] beds; they supplicate their Lord in fear and aspiration, and from what We have provided them, they spend. (16) And no soul knows what has been hidden for them of comfort for eyes as reward for what they used to do. (17) Then is one who was a believer like one who was defiantly disobedient? They are not equal. (18) As for those who believed and did righteous deeds, for them will be the Gardens of Refuge as accommodation for what they used to do. (19) But as for those who defiantly disobeyed, their refuge is the Fire. Every time they wish to emerge from it, they will be returned to it while it is said to them, "Taste the punishment of the Fire which you used to deny." (20) And we will surely let them taste the nearer punishment short of the greater punishment that perhaps they will repent. (21) And who is more unjust than one who is reminded of the verses of his Lord; then he turns away from them? Indeed We, from the criminals, will take retribution. (22) And We certainly gave Moses the Scripture, so do not be in doubt over his meeting. And we made the Torah guidance for the Children of Israel. (23) And We made from among them leaders guiding by Our command when they were patient and [when] they were certain of Our signs. (24) Indeed, your Lord will judge between them on the Day of Resurrection concerning that over which they used to differ. (25) Has it not become clear to them how many generations We destroyed before them, [as] they walk among their dwellings? Indeed in that are signs; then do they not hear? (26) Have they not seen that We drive the water [in clouds] to barren land and bring forth thereby crops from which their livestock eat and [they] themselves? Then do they not see? (27) And they say, "When will be this conquest, if you should be truthful?" (28) Say, [O Muhammad], "On the Day of Conquest the belief of those who had disbelieved will not benefit them, nor will they be reprieved." (29) So turn away from them and wait. Indeed, they are waiting. (30)</item>
+
+<item>Recite Surah Bani Israeel (Isra) and Surah Az-Zumar</item>
+
+        
+    </string-array>
+    <string-array name="s_duas_eng_titles">
+	<item>آیة الکرسی</item>
+	<item>سورة البقره  (285-286)</item>
+	<item>سورة الكافرون</item>
+	<item>سورة الاخلاص</item>
+	<item>سورة الفلق</item>
+	<item>سورة الناس</item>
+	<item>تسبیحات فاطمه</item>
+	<item>NONE</item>
+	<item>NONE</item>
+	<item>NONE</item>
+	<item>NONE</item>
+	<item>NONE</item>
+	<item>NONE</item>
+	<item>NONE</item>
+	<item>NONE</item>
+	<item>NONE</item>
+	<item>NONE</item>
+	<item>NONE</item>
+	<item>NONE</item>
+	<item>Rememberance till asleep</item>
+<item>While changing sides due to hunger</item>
+<item>  Waking up in the middle of night </item>
+<item>  Waking up in the middle of night </item>
+<item> On seeing a bad dream </item>
+<item>If scared during sleep</item>
+<item>If scared during sleep</item>
+<item>For protection from fear and enemy</item>
+	<item>سورة الملك</item>
+	<item>سورة السجده</item>
+<item>سورة الزمر، سورة بنی اسرائیل</item>
+</string-array>
+    <string-array name="s_duas_ref">
+       <item>(المعجم الکبیر للطبرانی، ج : 1،541)</item>
+	<item> ( صحیح البخاری : 4008)</item>
+	<item>( سنن أبی داؤد:5055)</item>
+	<item> (صحیح مسلم:1886),  ( صحیح البخاری : 5017),  ( سنن أبی داؤد: 5082)</item>
+	<item> ( صحیح البخاری : 5017),  ( سنن أبی داؤد: 5082)</item>
+	<item> ( صحیح البخاری : 5017),  ( سنن أبی داؤد: 5082)</item>
+	<item> ( صحیح البخاری: 5361)</item>
+	<item> ( صحیح البخاری : 7393)</item>
+	<item> (صحیح مسلم:6894)</item>
+	<item>(المستدرک علی الصحیحین للحاکم،ج:2 ،2026 )</item>
+	<item>( صحیح البخاری:6313 )</item>
+	<item>(المستدرک علی  الصحیحین للحاکم،ج:2،2045)</item>
+	<item>( سنن أبی داؤد:5058)</item>
+	<item>(مسند أحمد ،ج:1،51)</item>
+	<item> (صحیح ابن حبان،ج:12،5528) </item>
+	<item> (صحیح البخاری : 6314 ) </item>
+	<item> ( سنن أبی داؤد: 5045)</item>
+	<item> ( صحیح مسلم : 6889)</item>
+	<item>( صحیح مسلم :6888 )</item>
+	<item> (صحیح الترغیب والترھیب،ج:1،388) </item>
+	<item>(صحیح ابن حبان ،ج12: ،5530 )</item>
+	<item> (سنن النسائی:1619)</item>
+	<item>( صحیح البخاری :1154)</item>
+	<item> (صحیح مسلم:5903 )</item>
+	<item> (سنن الترمذی:3528)</item>
+	<item>( المعجم الأوسط للطبرانی، ج : 6، 5411)</item>
+	<item> (شعب الایمان:607)</item>
+	<item> (سنن الترمذی:3404)</item>
+	<item> (سنن الترمذی:2892)</item>
+	<item> (سنن الترمذی:3405)</item>
+    </string-array>
+    <string-array name="s_duas_urd">
+       <item>الله کے سوا کوئی معبود نهیں، وه زنده اور قائم رهنے والا ہے، اسے نه اونگھ آتی ہے نه نیند، اسی کے لیے ہے جوآسمانوں اور زمین میں ہے، کون ہے جو اس کی اجازت کے بغیر اس کے سامنے شفاعت کرسکے، وه جانتا ہے جو ان کے آگے اور پیچھے ہے، اور وه اس کے علم میں سے کسی چیز کا احاطه نهیں کر سکتے سوائے اس کے جو وه چاہے، اس کی کرسی آسمانوں اور زمین تک وسیع ہے اور ان کی حفاظت اسے نهیں تھکاتی اور وه بهت بلند اور بهت عظمت والا ہے۔</item>
+
+<item>رسول ﷺ ایمان لایااُس پر جو اس کے رب کی طرف سے اس پر نازل کیا گیا اور مومن بھی ،سب کے سب ایمان لائے الله پر،اس کے فرشتوں پر، اس کی کتابوں پر اور اس کے رسولوں پر۔ (وہ کہتے ہیں)ہم اس کے رسولوں میں سے کسی میں فرق نہیں کرتے اور وہ کہتے ہیں ہم نے سنا اور ہم نے اطاعت کی ، اے ہمارے رب !ہم تجھ سے مغفرت طلب کرتے ہیں اور ہمیں تیری ہی طرف لوٹنا ہے۔  الله کسی کو اس کی طاقت سے زیادہ تکلیف نہیں دیتا، اسی کے لیے ہے جو اس نے (نیکی) کی اور اسی پر ہے جو اس نے(گناہ )کمایا، اے ہمارے رب! اگر ہم بھول جائیں یا ہم خطا کریں تو ہمیں نہ پکڑنا، اے ہمارے رب! ہم پر وہ بوجھ نہ ڈالنا جیسا کہ تو نے ہم سے پہلے لوگوں پر ڈالا، اے ہمارے رب! تو ہم سے وہ بوجھ نہ اٹھوانا جس کے اٹھانے کی طاقت ہم میں نہیں، ہم سے درگزر فرما اور ہمیں بخش دے اور ہم پر رحم فرما، تو ہی ہمارا مولا ہے پس کافر قوم کے مقابلے میں ہماری مدد فرما۔</item>
+<item>کہہ دیجئے کہ اے کافرو! جن کی تم عبادت کرتے ہو میں ان کی عبادت نہیں کرتااور جس کی میں عبادت کرتا ہوں اس کی تم عبادت نہیں کرتے اورجن کی تم عبادت کرتے ہو ان کی میں عبادت کرنے والا نہیں ہوں اور نہ تم اس کی عبادت کرنے والے ہو جس کی میں عبادت کرتا ہوں۔ تمہارے لیے تمہارا دین اور میرے لیے میرا دین۔</item>
+<item>کہہ دیجئے! کہ وہ  الله ایک ہے۔  الله بے نیاز ہے۔ نہ اس سے کوئی پیدا ہوا اور نہ ہی وہ کسی سے پیدا ہوا، اور نہ ہی کوئی اس کا ہمسر ہے۔</item>
+
+<item>کہہ دیجئے! میں صبح کے رب کی پناہ چاہتا ہوں۔ ہر اس چیز کے شر سے جو اس نے پیدا کی ہے اور اندھیری رات کی تاریکی کے شر سے جب وہ پھیل جائے، اور گرہوں میں پھونکنے والیوں کے شر سے، اور حسد کرنے والے کے شر سے جب وہ حسد کرے۔</item>
+
+<item>کہہ دیجئے! میں لوگوں کے رب کی پناہ چاہتا ہوں۔ لوگوں کے مالک کی۔ لوگوں کے معبود کی ۔وسوسہ ڈالنے والے، باربار پلٹ کر آنے والے کے شر سے۔ وہ جو لوگوں کے سینوں میں وسوسہ ڈالتا ہے۔ جنوں اور انسانوں میں سے۔  </item>
+
+<item>پاک ہے الله (33  بار ) 
+ سب تعریف الله کے لیے ہے (33  بار)   
+الله سب سے بڑا ہے (34  بار) </item>
+
+<item>اے میرے رب! تیرا نام لے کر میں اپنا پہلو رکھتا ہوں اور تیرے نام ہی کے ساتھ اس کو اٹھاتا ہوں۔ اگر تو میری جان کو روک لے تو اسے بخش دینا اور اگر اسے واپس بھیج دے تو اس کی حفاظت فرمانا جس طرح تو اپنے نیک بندوں کی حفاظت فرماتا ہے۔</item>
+<item>الله کا شکر ہے جس نے ہمیں کھلایا اور پلایا اور ہماری کفایت کی اور ہمیں ٹھکانہ دیا کتنے ہی ایسے لوگ ہیں جن کے لیے نہ کوئی کفایت ہے نہ ٹھکانہ ۔</item>
+<item>اے  الله ! میرے گناہ بخش دے، میرے شیطان کو دفع کر دے، میرے نفس کو (آگ سے) آزاد کر دے، میرے میزان کو بھاری کر دے اور مجھے اعلی مجلس والوں میں شامل کردے۔</item>
+<item>اے الله! میں نے اپنی جان تیرے سپرد کی اور اپنا معاملہ تجھے سونپا اور خود کو تیری طرف متوجہ کیا اور اپنی پشت تیری پناہ میں دی تجھ سے امید اور تیرے خوف کے ساتھ، تیرے سوا کوئی جائے پناہ اور نجات نہیں، میں ایما ن لایا تیر ی کتا ب پر جو تو نے نازل کی اور تیرے نبی ۖپر جس کو تو نے بھیجا۔</item>
+
+<item>تمام تعر یف ﷲ کے لیے ہے جس نے میر ی کفا یت کی اور مجھے ر ہنے کو جگہ عنایت فرمائی، تمام تعریف ﷲ کے لیے ہے جس نے مجھے کھلایا اور پلایا، تمام تعریف ﷲ کے لیے ہے جس نے مجھ پر احسان کیا اور بہت زیادہ کیا۔ اے الله ! میں تجھ سے تیری عزت کے واسطے سے سوال کرتا ہوں کہ تو مجھے آگ سے نجات دے دے۔</item>
+<item>تمام تعر یف ﷲ کے لیے ہے جس نے میری کفا یت کی اور مجھے ر ہنے کو جگہ عنایت فرمائی ، مجھے کھلایا اورپلایا اور وہ ذات جس نے مجھ پر احسا ن کیا اور بہت زیادہ کیا، جس نے مجھے دیا اور بہت خوب دیا۔ ہر حال میں  الله ہی کی تعریف ہے۔ اے ﷲ! اے ہر چیز کے پالنے والے اور اس کے مالک! اے ہر چیز کے معبود! میں آگ سے تیری پناہ چاہتا ہوں۔ </item>
+
+<item>اے  الله!اے ظاہر اور پوشیدہ سب کچھ جاننے والے، آسمانوں اور زمین کو پیدا کرنے والے، ہر چیز کے رب اوراس کے مالک! میں اس بات کی گواہی دیتا ہوں کہ تیرے علاوہ کوئی معبود نہیں ، میں اپنی ذات کے شر، شیطان کے شر اور اس کے شرک سے تیری پناہ میں آتا ہوں  ۔</item>
+
+<item> الله کے سوا کوئی معبود نہیں وہ اکیلا ہے اس کا کوئی شریک نہیں اسی کی بادشاہت ہے اور اسی کے لئے تمام تعریف ہے اور وہ ہر چیز پر پوری طرح قادر ہے ۔  الله کی توفیق کے بغیر گناہ چھوڑنے کی طاقت اور نیکی کرنے کی قوت نہیں ہے۔ پاک ہے  الله اور سب تعریف  الله ہی کے لیے ہے اور  الله کے سوا کوئی معبود نہیں اور الله سب سے بڑا ہے۔</item>
+	
+<item>اے الله! تیرے نام کے ساتھ میں مرتا ہوں اور زندہ ہوتا ہوں۔</item>
+<item> اے الله ! مجھے اپنے عذاب سے بچا لینا جس دن تو اپنے بندوں کو اٹھا ئے گا۔</item>
+
+<item>اے  الله! آسمانوں اور زمین کے رب اور عرش عظیم کے رب، اے ہمارے رب اور ہر چیز کے رب، دانے اور گٹھلی کے پھاڑنے والے، توراة، انجیل اور فرقان (قرآن) نازل کرنے والے! میں ہر چیز کے شر سے تیری پناہ مانگتا ہوں تو ہی اس کو پیشانی سے پکڑنے والا ہے، اے الله !  تو ہی اوّل ہے پس تجھ سے پہلے کوئی نہیں اور تو ہی آخر ہے پس تیرے بعد کوئی نہیں اور تو ہی ظاہر ہے پس تجھ سے اوپر کوئی نہیں اور توہی باطن ہے پس تیرے سوا کوئی نہیں، ہم سے قرض ادا کرو ا دے اور ہمیں محتاجی سے ما لدار کردے۔</item>
+<item>اے  الله! تو نے میری جان کو پید ا کیا اور تو ہی اس کو فو ت کرے گا ، تیرے لیے ہی اس کا مرنا اور اس کا جینا ہے۔ اگر تو اسے زندہ رکھے تو اس کی حفاظت کرنا اور اگر تو اسے موت دے تو اس کوبخش دینا، اے  الله! بے شک میں تجھ سے عافیت طلب کر تا ہوں ۔</item>
+
+<item> پاک ہے الله، پاک ہے الله پاک ہے میرا رب۔</item>
+
+<item> الله کے سوا کوئی عبادت کے لائق نہیں۔وہ اکیلا، زبردست ہے۔ آسمانوں ،زمین اور جوکچھ ان دونوں کے درمیان ہے ان کا رب ہے۔ وہ بہت عزت والا اور بہت بخشنے والا ہے۔</item>
+
+<item>پاک ہے الله جو تمام جہانوں کا رب ہے،  پاک ہے الله اور اسی کی تعریف ہے </item>
+
+<item>الله کے سوا کوئی معبود نهیں وه اکیلا ہے اس کا کوئی شریک نهیں۔ اسی کی بادشاهت ہے اور اسی کے لیے تمام تعریف ہے اور وه ہر چیز پر قادر ہے ۔ سب تعریفیں الله کے لیے ہیں اورالله تعالیٰ( هر عیب سے) پاک ہے ، الله کے سوا کوئی معبود برحق نہیں ، الله سب سے بڑا ہے اور الله کی توفیق کے بغیر گناه چھوڑنے کی طاقت اور نیکی کرنے کی قوت نہیں ہے۔ اے الله! مجھے بخش دے۔</item>
+
+<item>میں شیطان اور اس (خواب) کے شر سے الله کی پناه چاهتا ہوں۔</item>
+	
+<item>میں  الله کے تمام کلمات کے ذریعے پناہ چاہتا ہوں اس کے غضب  اور اس کے عذاب اور اس کے بندوں کے شر سے اور شیطانوں کے وسوسے اور اس سے کہ وہ میرے پاس حاضر ہوں۔</item>
+
+<item>میں الله تعالیٰ کے ان تمام کلمات کے ذریعے پناه چاهتا ہوں جن سے آگے نه کوئی نیک اور نه هی کوئی برا شخص بڑھ سکتاہے۔  هر اس چیز کے شر سے جو آسمان سے اترتی ہے اور جو اس میں چڑھتی ہے اور رات اور دن کے فتنوں کے شر سے اور رات کو آنے والے کے  شر سے سوائے اس کے جو خیر کے ساتھ آئے، اے رحم  فرمانے والے !</item>
+
+<item>پاک ہے الله، سب تعریف الله کے لیے ہے، الله سب سے بڑا ہے، الله کے سوا کوئی معبود برحق نہیں</item>
+
+<item>بسم الله الرحمن الرحيم
+نہایت بزرگ و برتر ہے وہ جس کے ہاتھ میں کائنات کی سلطنت ہے، اور وہ ہر چیز پر قدرت رکھتا ہے (1) جس نے موت اور زندگی کو ایجاد کیا تاکہ تم لوگوں کو آزما کر دیکھے تم میں سے کون بہتر عمل کرنے والا ہے، اور وہ زبردست بھی ہے اور درگزر فرمانے والا بھی (2) جس نے تہ بر تہ سات آسمان بنائے تم رحمان کی تخلیق میں کسی قسم کی بے ربطی نہ پاؤ گے پھر پلٹ کر دیکھو، کہیں تمہیں کوئی خلل نظر آتا ہے؟ (3) بار بار نگاہ دوڑاؤ تمہاری نگاہ تھک کر نامراد پلٹ آئے گی (4) ہم نے تمہارے قریب کے آسمان کو عظیم الشان چراغوں سے آراستہ کیا ہے اور اُنہیں شیاطین کو مار بھگانے کا ذریعہ بنا دیا ہے اِن شیطانوں کے لیے بھڑکتی ہوئی آگ ہم نے مہیا کر رکھی ہے (5) جن لوگوں نے اپنے رب سے کفر کیا ان کے لیے جہنم کا عذاب ہے اور وہ بہت ہی برا ٹھکانا ہے (6) جب وہ اُس میں پھینکے جائیں گے تو اسکے دھاڑنے کی ہولناک آواز سنیں گے اور وہ جوش کھا رہی ہوگی (7) شدت غضب سے پھٹی جاتی ہو گی ہر بار جب کوئی انبوہ اس میں ڈالا جائے گا، اُس کے کارندے اُن لوگوں سے پوچھیں گے "کیا تمہارے پاس کوئی خبردار کرنے والا نہیں آیا تھا؟" (8) وہ جواب دیں گے "ہاں، خبردار کرنے والا ہمارے پاس آیا تھا، مگر ہم نے اسے جھٹلا دیا اور کہا  الله نے کچھ بھی نازل نہیں کیا ہے، تم بڑی گمراہی میں پڑے ہوئے ہو" (9) اور وہ کہیں گے "کاش ہم سنتے یا سمجھتے تو آج اِس بھڑکتی ہوئی آگ کے سزا واروں میں نہ شامل ہوتے" (10) اس طرح وہ اپنے قصور کا خود اعتراف کر لیں گے، لعنت ہے ان دوزخیوں پر (11) جو لوگ بے دیکھے اپنے رب سے ڈرتے ہیں، یقیناً اُن کے لیے مغفرت ہے اور بڑا اجر (12) تم خواہ چپکے سے بات کرو یا اونچی آواز سے ( الله کے لیے یکساں ہے)، وہ تو دلوں کا حال تک جانتا ہے (13) کیا وہی نہ جانے گا جس نے پیدا کیا ہے؟ حالانکہ وہ باریک بیں اور باخبر ہے (14) وہی تو ہے جس نے تمہارے لیے زمین کو تابع کر رکھا ہے، چلو اُس کی چھاتی پر اور کھاؤ خدا کا رزق، اُسی کے حضور تمہیں دوبارہ زندہ ہو کر جانا ہے (15) کیا تم اِس سے بے خوف ہو کہ وہ جو آسمان میں ہے تمہیں زمین میں دھنسا دے اور یکایک یہ زمین جھکولے کھانے لگے؟ (16) کیا تم اِس سے بے خوف ہو کہ وہ جو آسمان میں ہے تم پر پتھراؤ کرنے والی ہوا بھیج دے؟ پھر تمہیں معلوم ہو جائے گا کہ میری تنبیہ کیسی ہوتی ہے (17) اِن سے پہلے گزرے ہوئے لوگ جھٹلا چکے ہیں پھر دیکھ لو کہ میری گرفت کیسی سخت تھی (18) کیا یہ لو گ اپنے اوپر اڑنے والے پرندوں کو پر پھیلائے اور سکیڑتے نہیں دیکھتے؟ رحمان کے سوا کوئی نہیں جو انہیں تھامے ہوئے ہو وہی ہر چیز کا نگہبان ہے (19) بتاؤ، آخر وہ کونسا لشکر تمہارے پاس ہے جو رحمان کے مقابلے میں تمہاری مدد کر سکتا ہے؟ حقیقت یہ ہے کہ منکرین دھوکے میں پڑے ہوئے ہیں (20) یا پھر بتاؤ، کون ہے جو تمہیں رزق دے سکتا ہے اگر رحمان اپنا رزق روک لے؟ دراصل یہ لوگ سر کشی اور حق سے گریز پر اڑے ہوئے ہیں (21) بھلا سوچو، جو شخص منہ اوندھائے چل رہا ہو وہ زیادہ صحیح راہ پانے والا ہے یا وہ جو سر اٹھائے سیدھا ایک ہموار سڑک پر چل رہا ہو؟ (22) اِن سے کہو  الله ہی ہے جس نے تمہیں پیدا کیا، تم کو سننے اور دیکھنے کی طاقتیں دیں اور سوچنے سمجھنے والے دل دیے، مگر تم کم ہی شکر ادا کرتے ہو (23) اِن سے کہو،  الله ہی ہے جس نے تمہیں زمین میں پھیلایا اور اسی کی طرف تم سمیٹے جاؤ گے (24) یہ کہتے ہیں "اگر تم سچے ہو تو بتاؤ یہ وعدہ کب پورا ہوگا؟" (25) کہو، "اِس کا علم تو  الله کے پاس ہے، میں تو بس صاف صاف خبردار کر دینے والا ہوں" (26) پھر جب یہ اُس چیز کو قریب دیکھ لیں گے تو اُن سب لوگوں کے چہرے بگڑ جائیں گے جنہوں نے انکار کیا ہے، اور اُس وقت ان سے کہا جائے گا کہ یہی ہے وہ چیز جس کے لیے تم تقاضے کر رہے تھے (27) اِن سے کہو، کبھی تم نے یہ بھی سوچا کہ  الله خواہ مجھے اور میرے ساتھیوں کو ہلاک کر دے یا ہم پر رحم کرے، کافروں کو دردناک عذاب سے کون بچا لے گا؟ (28) اِن سے کہو، وہ بڑا رحیم ہے، اسی پر ہم ایمان لائے ہیں، اور اُسی پر ہمارا بھروسا ہے، عنقریب تمہیں معلوم ہو جائے گا کہ صریح گمراہی میں پڑا ہوا کون ہے (29) اِن سے کہو، کبھی تم نے یہ بھی سوچا کہ اگر تمہارے کنوؤں کا پانی زمین میں اتر جائے تو کون ہے جو اِس پانی کی بہتی ہوئی سوتیں تمہیں نکال کر لا دے گا؟ (30)</item>
+
+<item>بسم الله الرحمن الرحيم
+ا ل م (1) اِس کتاب کی تنزیل بلا شبہ رب العالمین کی طرف سے ہے (2) کیا یہ لوگ کہتے ہیں کہ اس شخص نے اِسے خود گھڑ لیا ہے؟ نہیں، بلکہ یہ حق ہے تیرے رب کی طرف سے تاکہ تو متنبہ کرے ایک ایسی قوم کو جس کے پاس تجھ سے پہلے کوئی متنبہ کرنے والا نہیں آیا، شاید کہ وہ ہدایت پا جائیں (3) وہ  الله ہی ہے جس نے آسمانوں اور زمین کو اور اُن ساری چیزوں کو جو ان کے درمیان ہیں چھ دنوں میں پیدا کیا اور اس کے بعد عرش پر جلوہ فرما ہوا، اُس کے سوا نہ تمہارا کوئی حامی و مدد گار ہے اور نہ کوئی اُس کے آگے سفارش کرنے والا، پھر کیا تم ہوش میں نہ آؤ گے؟ (4) وہ آسمان سے زمین تک دُنیا کے معاملات کی تدبیر کرتا ہے اور اس تدبیر کی روداد اُوپر اُس کے حضور جاتی ہے ایک ایسے دن میں جس کی مقدار تمہارے شمار سے ایک ہزار سال ہے (5) وہی ہے ہر پوشیدہ اور ظاہر کا جاننے والا، زبردست، اور رحیم (6) جو چیز بھی اس نے بنائی خوب ہی بنائی اُ س نے انسان کی تخلیق کی ابتدا گارے سے کی (7) پھر اُس کی نسل ایک ایسے ست سے چلائی جو حقیر پانی کی طرح کا ہے (8) پھر اس کو نِک سُک سے درست کیا اور اس کے اندر اپنی روح پھونک دی، اور تم کو کان دیے، آنکھیں دیں اور دِل دیے تم لوگ کم ہی شکر گزار ہوتے ہو (9) اور یہ لوگ کہتے ہیں: "جب ہم مٹی میں رَل مِل چکے ہوں گے تو کیا ہم پھر نئے سرے سے پیدا کیے جائیں گے؟" اصل بات یہ ہے کہ یہ اپنے رب کی ملاقات کے منکر ہیں (10) اِن سے کہو "موت کا وہ فرشتہ جو تم پر مقرر کیا گیا ہے تم کو پورا کا پورا اپنے قبضے میں لے لے گا اور پھر تم اپنے رب کی طرف پلٹا لائے جاؤ گے" (11) کاش تم دیکھو وہ وقت جب یہ مجرم سر جھکائے اپنے رب کے حضور کھڑے ہوں گے (اُس وقت یہ کہہ رہے ہوں گے) "اے ہمارے رب، ہم نے خوب دیکھ لیا اور سُن لیا اب ہمیں واپس بھیج دے تاکہ ہم نیک عمل کریں، ہمیں اب یقین آگیا ہے" (12) (جواب میں ارشاد ہو گا) "اگر ہم چاہتے تو پہلے ہی ہر نفس کو اس کی ہدایت دے دیتے مگر میری وہ بات پُوری ہو گئی جو میں نے کہی تھی کہ میں جہنّم کو جنوں اور انسانوں سب سے بھر دوں گا (13) پس اب چکھو مزا اپنی اِس حرکت کا کہ تم نے اس دن کی ملاقات کو فراموش کر دیا، ہم نے بھی اب تمہیں فراموش کر دیا ہے چکھو ہمیشگی کے عذاب کا مزا اپنے کرتوتوں کی پاداش میں" (14) ہماری آیات پر تو وہ لوگ ایمان لاتے ہیں جنہیں یہ آیات سنا کر جب نصیحت کی جاتی ہے تو سجدے میں گر پڑتے ہیں اور اپنے رب کی حمد کے ساتھ اس کی تسبیح کرتے ہیں اور تکبر نہیں کرتے (15) اُن کی پیٹھیں بستروں سے الگ رہتی ہیں، اپنے رب کو خوف اور طمع کے ساتھ پکارتے ہیں، اور جو کچھ رزق ہم نے اُنہیں دیا ہے اس میں سے خرچ کرتے ہیں (16) پھر جیسا کچھ آنکھوں کی ٹھنڈک کا سامان ان کے اعمال کی جزا میں ان کے لیے چھپا رکھا گیا ہے اس کی کسی متنفس کو خبر نہیں ہے (17) بھلا کہیں یہ ہو سکتا ہے کہ جو شخص مومن ہو وہ اُس شخص کی طرح ہو جائے جو فاسق ہو؟ یہ دونوں برابر نہیں ہو سکتے (18) جو لوگ ایمان لائے ہیں اور جنہوں نے نیک عمل کیے ہیں اُن کے لیے تو جنتوں کی قیام گاہیں ہیں، ضیافت کے طور پر اُن کے اعمال کے بدلے میں (19) اور جنہوں نے فسق اختیار کیا ہے اُن کا ٹھکانا دوزخ ہے جب کبھی وہ اس سے نکلنا چاہیں گے اسی میں دھکیل دیے جائیں گے اور ان سے کہا جائے گا کہ چکھو اب اُسی آگ کے عذاب کا مزا جس کو تم جھٹلایا کرتے تھے (20) اُس بڑے عذاب سے پہلے ہم اِسی دنیا میں (کسی نہ کسی چھوٹے) عذاب کا مزا اِنہیں چکھاتے رہیں گے، شاید کہ یہ (اپنی باغیانہ روش سے) باز آ جائیں (21) اور اُس سے بڑا ظالم کون ہو گا جسے اس کے رب کی آیات کے ذریعہ سے نصیحت کی جائے اور پھر وہ ان سے منہ پھیر لے ایسے مجرموں سے تو ہم انتقام لے کر رہیں گے (22) اِس سے پہلے ہم موسیٰؑ کو کتاب دے چکے ہیں، لہٰذا اُسی چیز کے ملنے پر تمہیں کوئی شک نہ ہونا چاہیے اُس کتاب کو ہم نے بنی اسرائیل کے لیے ہدایت بنایا تھا (23) اور جب انہوں نے صبر کیا اور ہماری آیات پر یقین لاتے رہے تو ان کے اندر ہم نے ایسے پیشوا پیدا کیے جو ہمارے حکم سے رہنمائی کرتے تھے (24) یقیناً تیرا رب ہی قیامت کے روز اُن باتوں کا فیصلہ کرے گا جن میں (بنی اسرائیل) باہم اختلاف کرتے رہے ہیں (25) اور کیا اِن لوگوں کو (اِن تاریخی واقعات میں) کوئی ہدایت نہیں ملی کہ ان سے پہلے کتنی قوموں کو ہم ہلاک کر چکے ہیں جن کے رہنے کی جگہوں میں آج یہ چلتے پھرتے ہیں؟ اس میں بڑی نشانیاں ہیں، کیا یہ سنتے نہیں ہیں؟ (26) اور کیا اِن لوگوں نے یہ منظر کبھی نہیں دیکھا کہ ہم ایک بے آب و گیاہ زمین کی طرف پانی بہا لاتے ہیں، اور پھر اسی زمین سے وہ فصل اُگاتے ہیں جس سے ان کے جانوروں کو بھی چارہ ملتا ہے اور یہ خود بھی کھاتے ہیں؟ تو کیا انہیں کچھ نہیں سوجھتا؟ (27) یہ لوگ کہتے ہیں کہ "یہ فیصلہ کب ہو گا اگر تم سچے ہو؟" (28) ان سے کہو "فیصلے کے دن ایمان لانا اُن لوگوں کے لیے کچھ بھی نافع نہ ہو گا جنہوں نے کفر کیا ہے اور پھر اُن کو کوئی مہلت نہ ملے گی" (29) اچھا، اِنہیں ان کے حال پر چھوڑ دو اور انتظار کرو، یہ بھی منتظر ہیں (30)</item>
+
+<item>سوره بنی اسرائیل اور سوره کی  تلاوت  کریں</item>
+    </string-array>
+    <string-array name="s_duas_urd_titles">
+	<item>آیة الکرسی</item>
+	<item>سورة البقره  (285-286)</item>
+	<item>سورة الكافرون</item>
+	<item>سورة الاخلاص</item>
+	<item>سورة الفلق</item>
+	<item>سورة الناس</item>
+	<item>تسبیحات فاطمه</item>
+	<item>NONE</item>
+	<item>NONE</item>
+	<item>NONE</item>
+	<item>NONE</item>
+	<item>NONE</item>
+	<item>NONE</item>
+	<item>NONE</item>
+	<item>NONE</item>
+	<item>NONE</item>
+	<item>NONE</item>
+	<item>NONE</item>
+	<item>NONE</item>
+	<item>نیند آنے تک ذکر کرنا</item>
+<item>رات کو بھوک کی وجہ سے پہلو بدلتے وقت</item>
+<item>دورانِ نیند رات آنکھ کھلنے پر</item>
+<item>دورانِ نیند رات آنکھ کھلنے پر </item>
+<item>برا خواب دیکھنے پر</item>
+<item>نیند میں ڈر جانے پر</item>
+<item>نیند میں ڈر جانے پر</item>
+<item>تکلیف اور دشمن سے حفاظت کے لیے</item>
+	<item>سورة الملك</item>
+	<item>سورة السجده</item>
+<item>سورة الزمر، سورة بنی اسرائیل</item>
+</string-array>
+    <color name="black">#000</color>
+    <color name="blue">#0000ff</color>
+    <color name="blue_light">#50f5f0</color>
+    <color name="blue_lighter">#c3f8f6</color>
+    <color name="green">#00ff00</color>
+    <color name="grey">#ddd</color>
+    <color name="grey_dark">#242424</color>
+    <color name="grey_light">#eee</color>
+    <color name="greyish">#707070</color>
+    <color name="label_bg">#62D9BC</color>
+    <color name="masnoon_color">#31b0bd</color>
+    <color name="notification_action_color_filter">#ffffffff</color>
+    <color name="notification_icon_bg_color">#ff9e9e9e</color>
+    <color name="notification_material_background_media_default_color">#ff424242</color>
+    <color name="orange_light">#ffca63</color>
+    <color name="orange_lighter">#ffebc4</color>
+    <color name="primary_text_default_material_dark">#ffffffff</color>
+    <color name="quranic_color">#ff8d1c</color>
+    <color name="red">#ff0000</color>
+    <color name="ripple_material_light">#1f000000</color>
+    <color name="secondary_text_default_material_dark">#b3ffffff</color>
+    <color name="secondary_text_default_material_light">#8a000000</color>
+    <color name="sleep_color">#2B548D</color>
+    <color name="text_shadow">#7F0000</color>
+    <color name="wake_up_color">#28D9B6</color>
+    <color name="white">#ffffff</color>
+    <color name="white_off">#f6f6f6</color>
+    <declare-styleable name="FontFamily"><attr format="string" name="fontProviderAuthority"/><attr format="string" name="fontProviderPackage"/><attr format="string" name="fontProviderQuery"/><attr format="reference" name="fontProviderCerts"/><attr name="fontProviderFetchStrategy">
+            
+            <enum name="blocking" value="0"/>
+            
+            <enum name="async" value="1"/>
+        </attr><attr format="integer" name="fontProviderFetchTimeout">
+          
+            <enum name="forever" value="-1"/>
+        </attr></declare-styleable>
+    <declare-styleable name="FontFamilyFont"><attr name="fontStyle">
+            <enum name="normal" value="0"/>
+            <enum name="italic" value="1"/>
+        </attr><attr format="reference" name="font"/><attr format="integer" name="fontWeight"/><attr name="android:fontStyle"/><attr name="android:font"/><attr name="android:fontWeight"/></declare-styleable>
+    <dimen name="activity_horizontal_margin">16dp</dimen>
+    <dimen name="activity_vertical_margin">16dp</dimen>
+    <dimen name="compat_button_inset_horizontal_material">4dp</dimen>
+    <dimen name="compat_button_inset_vertical_material">6dp</dimen>
+    <dimen name="compat_button_padding_horizontal_material">8dp</dimen>
+    <dimen name="compat_button_padding_vertical_material">4dp</dimen>
+    <dimen name="compat_control_corner_material">2dp</dimen>
+    <dimen name="notification_action_icon_size">32dp</dimen>
+    <dimen name="notification_action_text_size">13sp</dimen>
+    <dimen name="notification_big_circle_margin">12dp</dimen>
+    <dimen name="notification_content_margin_start">8dp</dimen>
+    <dimen name="notification_large_icon_height">64dp</dimen>
+    <dimen name="notification_large_icon_width">64dp</dimen>
+    <dimen name="notification_main_column_padding_top">10dp</dimen>
+    <dimen name="notification_media_narrow_margin">@dimen/notification_content_margin_start</dimen>
+    <dimen name="notification_right_icon_size">16dp</dimen>
+    <dimen name="notification_right_side_padding_top">2dp</dimen>
+    <dimen name="notification_small_icon_background_padding">3dp</dimen>
+    <dimen name="notification_small_icon_size_as_large">24dp</dimen>
+    <dimen name="notification_subtext_size">13sp</dimen>
+    <dimen name="notification_top_pad">10dp</dimen>
+    <dimen name="notification_top_pad_large_text">5dp</dimen>
+    <drawable name="notification_template_icon_bg">#3333B5E5</drawable>
+    <drawable name="notification_template_icon_low_bg">#0cffffff</drawable>
+    <item name="line1" type="id"/>
+    <item name="line3" type="id"/>
+    <item name="tag_transition_group" type="id"/>
+    <item name="text" type="id"/>
+    <item name="text2" type="id"/>
+    <item name="title" type="id"/>
+    <integer name="cancel_button_image_alpha">127</integer>
+    <integer name="status_bar_notification_info_maxnum">999</integer>
+    <string name="app_name">SonayJagnayKayAzkaar</string>
+    <string name="delete">Delete</string>
+    <string name="divider">❋ ❋  ❋</string>
+    <string name="eng">English</string>
+    <string name="favorite">Favorite</string>
+    <string name="favorite_duas">Favorite Duas</string>
+    <string name="favorites">Favorites</string>
+    <string name="font_opt">Step the font size up or down :)</string>
+    <string name="font_settings">Font Settings</string>
+    <string name="font_size">Font Size</string>
+    <string name="lang_opt">Select the translation you wish to see</string>
+    <string name="list">></string>
+    <string name="masnoon_duas">Masnoon Duas</string>
+    <string name="minus">-</string>
+    <string name="next">Next</string>
+    <string name="please_enable_options">Please enable options which you want to see:</string>
+    <string name="plus">+</string>
+    <string name="prev">Prev</string>
+    <string name="quranic_duas">Quranic Duas</string>
+    <string name="ref">References</string>
+    <string name="ref_label">Reference:</string>
+    <string name="ref_opt">Turn on the references to view the references with Duas</string>
+    <string name="reference_settings">Reference Settings</string>
+    <string name="remove_dua">Remove Dua</string>
+    <string name="sample_arabic_text">"رَبِّ زِدْنِیْ عِلْمًا"</string>
+    <string name="sample_counter">" 1 / 43"</string>
+    <string name="sduas">Duas for Sleeping</string>
+    <string name="sduasurd">سونے کے ازکار</string>
+    <string name="settings">Settings</string>
+    <string name="status_bar_notification_info_overflow">999+</string>
+    <string name="text_separator">"***"</string>
+    <string name="title">❋</string>
+    <string name="translation_settings">Language Settings</string>
+    <string name="twenty_six">26</string>
+    <string name="urd">Urdu</string>
+    <string name="wduas">Duas for Waking Up</string>
+    <string name="wduasurd">جاگنے  کے ازکار</string>
+    <style name="AppTheme" parent="@android:style/Theme.Holo.Light.NoActionBar">
+        <item name="android:windowNoTitle">true</item>
+    </style>
+    <style name="TextAppearance.Compat.Notification" parent="@android:style/TextAppearance.StatusBar.EventContent"/>
+    <style name="TextAppearance.Compat.Notification.Info">
+        <item name="android:textSize">12sp</item>
+        <item name="android:textColor">?android:attr/textColorSecondary</item>
+    </style>
+    <style name="TextAppearance.Compat.Notification.Info.Media"/>
+    <style name="TextAppearance.Compat.Notification.Line2" parent="TextAppearance.Compat.Notification.Info"/>
+    <style name="TextAppearance.Compat.Notification.Line2.Media" parent="TextAppearance.Compat.Notification.Info.Media"/>
+    <style name="TextAppearance.Compat.Notification.Media"/>
+    <style name="TextAppearance.Compat.Notification.Time">
+        <item name="android:textSize">12sp</item>
+        <item name="android:textColor">?android:attr/textColorSecondary</item>
+    </style>
+    <style name="TextAppearance.Compat.Notification.Time.Media"/>
+    <style name="TextAppearance.Compat.Notification.Title" parent="@android:style/TextAppearance.StatusBar.EventContent.Title"/>
+    <style name="TextAppearance.Compat.Notification.Title.Media"/>
+    <style name="Widget.Compat.NotificationActionContainer" parent=""/>
+    <style name="Widget.Compat.NotificationActionText" parent=""/>
+</resources>

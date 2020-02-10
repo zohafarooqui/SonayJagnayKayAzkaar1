@@ -1,0 +1,24 @@
+<resources>
+
+    <color name="black">#000</color>
+    <color name="red">#ff0000</color>
+    <color name="green">#00ff00</color>
+    <color name="blue">#0000ff</color>
+    <color name="blue_light">#50f5f0</color>
+    <color name="blue_lighter">#c3f8f6</color>
+    <color name="grey">#ddd</color>
+    <color name="grey_dark">#242424</color>
+    <color name="white">#ffffff</color>
+    <color name="grey_light">#eee</color>
+    <color name="orange_light">#ffca63</color>
+    <color name="orange_lighter">#ffebc4</color>
+    <color name="white_off">#f6f6f6</color>
+    <color name="text_shadow">#7F0000</color>
+    <color name="quranic_color">#ff8d1c</color>
+    <color name="masnoon_color">#31b0bd</color>
+    <color name="greyish">#707070</color>
+    <color name="sleep_color">#2B548D</color>
+    <color name="wake_up_color">#28D9B6</color>
+    <color name="label_bg">#62D9BC</color>
+
+</resources>

@@ -1,0 +1,204 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/white"
+    android:orientation="vertical" >
+
+    <LinearLayout
+        android:id="@+id/ll_back_single_dua_header"
+        android:layout_width="match_parent"
+        android:layout_height="48dp"
+        android:background="@color/label_bg"
+        android:gravity="center_vertical" >
+
+
+        <TextView
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:gravity="center_horizontal"
+            android:shadowColor="@color/grey_dark"
+            android:shadowDx="0"
+            android:shadowDy="2"
+            android:shadowRadius="3"
+            android:singleLine="true"
+            android:text="@string/settings"
+            android:textColor="@color/white"
+            android:textSize="25sp" />
+       
+    </LinearLayout>
+
+    <View
+        android:layout_width="match_parent"
+        android:layout_height="1dp"
+        android:background="@color/black" >
+    </View>
+
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:padding="6dp" >
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical" >
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="10dp"
+                android:text="@string/translation_settings"
+                android:textColor="@color/greyish"
+                android:textSize="21sp" />
+
+            <Switch
+                android:id="@+id/switch_end_trans"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="@string/eng"
+                android:textColor="@color/black"
+                android:textSize="19sp" />
+
+            <View
+                android:layout_width="match_parent"
+                android:layout_height="1dp"
+                android:layout_marginBottom="3dp"
+                android:layout_marginTop="3dp"
+                android:background="@color/grey_light" >
+            </View>
+
+            <Switch
+                android:id="@+id/switch_urd_trans"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="@string/urd"
+                android:textColor="@color/black"
+                android:textSize="19sp" />
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="10dp"
+                android:text="@string/lang_opt"
+                android:textColor="@color/greyish"
+                android:textSize="21sp" />
+
+            <View
+                android:layout_width="match_parent"
+                android:layout_height="1dp"
+                android:layout_marginBottom="15dp"
+                android:layout_marginTop="15dp"
+                android:background="@color/black" >
+            </View>
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="10dp"
+                android:text="@string/font_settings"
+                android:textColor="@color/greyish"
+                android:textSize="21sp" />
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:gravity="center"
+                android:orientation="horizontal" >
+
+                <TextView
+                    android:layout_width="0dp"
+                    android:layout_height="wrap_content"
+                    android:layout_weight="1"
+                    android:text="@string/font_size"
+                    android:textColor="@color/black"
+                    android:textSize="19sp" />
+
+                <Button
+                    android:id="@+id/btn_size_minus"
+                    android:layout_width="60dp"
+                    android:layout_height="35dp"
+                    android:layout_marginRight="6dp"
+                    android:background="@drawable/minus_custom" />
+
+                <TextView
+                    android:id="@+id/tv_font_size"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="@string/twenty_six"
+                    android:textColor="@color/black"
+                    android:textSize="17sp" />
+
+                <Button
+                    android:id="@+id/btn_size_plus"
+                    android:layout_width="60dp"
+                    android:layout_height="35dp"
+                    android:layout_marginLeft="6dp"
+                    android:background="@drawable/plus_custom" />
+            </LinearLayout>
+
+            <TextView
+                android:id="@+id/tv_font_size_sample"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="10dp"
+                android:gravity="center_horizontal"
+                android:lineSpacingExtra="3dp"
+                android:paddingTop="6dp"
+                android:text="@string/sample_arabic_text"
+                android:textAlignment="gravity"
+                android:textColor="@color/black"
+                android:textSize="26sp" />
+            
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="10dp"
+                android:text="@string/font_opt"
+                android:textColor="@color/greyish"
+                android:textSize="21sp" />
+
+            <View
+                android:layout_width="match_parent"
+                android:layout_height="1dp"
+                android:layout_marginBottom="15dp"
+                android:layout_marginTop="15dp"
+                android:background="@color/black" >
+            </View>
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="10dp"
+                android:text="@string/reference_settings"
+                android:textColor="@color/greyish"
+                android:textSize="21sp" />
+
+            <Switch
+                android:id="@+id/switch_ref"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="@string/ref"
+                android:textColor="@color/black"
+                android:textSize="19sp" />
+            
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="10dp"
+                android:text="@string/ref_opt"
+                android:textColor="@color/greyish"
+                android:textSize="21sp" />
+
+            <View
+                android:layout_width="match_parent"
+                android:layout_height="1dp"
+                android:layout_marginBottom="15dp"
+                android:layout_marginTop="15dp"
+                android:background="@color/black" >
+            </View>
+        </LinearLayout>
+    </ScrollView>
+
+</LinearLayout>

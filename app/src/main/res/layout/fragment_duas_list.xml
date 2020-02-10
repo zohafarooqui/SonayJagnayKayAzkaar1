@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+     >
+
+    <LinearLayout
+        android:id="@+id/ll_back_duas_list_header"
+        android:layout_width="match_parent"
+        android:layout_height="64dp"
+        android:background="@color/masnoon_color"
+        android:gravity="center" >
+
+        <Button
+            android:id="@+id/btn_play_all_duas"
+            android:layout_width="48dp"
+            android:layout_height="48dp"
+            android:layout_margin="5dp"
+            android:background="@drawable/play_all"
+            android:textSize="20sp" />
+        
+
+        <TextView
+            android:id="@+id/ll_back_duas_list_header_title"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:gravity="center"
+            android:shadowDx="0"
+            android:shadowDy="2"
+            android:shadowRadius="3"
+            android:singleLine="false"
+            android:textColor="@color/white"
+            android:text="@string/favorite_duas"
+            android:textStyle="bold"
+            android:textSize="18sp"
+         />
+ <Button
+            android:id="@+id/btn_remove_all_duas"
+            android:layout_width="48dp"
+            android:layout_height="48dp"
+            android:layout_margin="5dp"
+            android:background="@drawable/ic_action_discard"
+            android:textSize="20sp" />
+       
+    </LinearLayout>
+
+    <ListView
+        android:id="@+id/lv_duas"
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_weight="1"
+         >
+    </ListView>
+
+</LinearLayout>
